@@ -11,14 +11,14 @@ const AboutPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Hope – About" />
+                <SEO title="Second Wind– About" />
                 <div className="wrapper">
                     <Header />
                     <div className="main-content site-wrapper-reveal">
                         <PageTitleContainer
-                            image="img/photos/about-bg1.jpg"
-                            subTitle="Hope medical center"
-                            title="About <span>Hope</span>"
+                            image="img/photos/4295312.jpg"
+                            subTitle="Second Wind"
+                            title="About <br/><span>second wind</span>"
                         />
                         <AboutContainer />
                     </div>
