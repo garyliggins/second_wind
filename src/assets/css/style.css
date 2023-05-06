@@ -3187,7 +3187,7 @@ table p {
 }
 
 .sticky-header.sticky .main-menu li .main-menu-link:hover {
-  color: #6d0101;
+  color: #103883;
 }
 
 .sticky-header.sticky .main-menu li .main-menu-link::before {
@@ -3525,8 +3525,8 @@ body.offcanvas-open {
 
 .offcanvas-social a:hover {
   background: transparent;
-  color: #6d0101;
-  border-color: #6d0101 !important;
+  color: #103883;
+  border-color: #103883 !important;
 }
 
 /******************************** 
@@ -5417,7 +5417,7 @@ body.offcanvas-open {
 .appointment-form-style1 {
   position: relative;
   z-index: 2;
-  border: 1px solid #6d0101;
+  border: 1px solid #103883;
   background-color: #fff;
   box-shadow: 0px 50px 120px 0px rgba(68, 89, 89, 0.15);
   margin: 0 auto;

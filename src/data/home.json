@@ -4,14 +4,14 @@
             {
                 "id": 1,
                 "icon": "icofont-clock-time",
-                "title": "working hours",
-                "info": "MON - FRI: 9.00 - 21.00"
+                "title": "Hours",
+                "info": "MON - FRI: 9:00am - 6:00pm"
             },
             {
                 "id": 2,
                 "icon": "icofont-ui-call",
-                "title": "hotline 24/7",
-                "info": "+0123-45-67-890"
+                "title": "Customer Service",
+                "info": "602-000-0000"
             },
             {
                 "id": 3,

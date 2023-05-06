@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "pageTitle": "We make digital products and help organistation big and small connect with their audience."
+        "pageTitle": "Our mission is to provide compassionate and effective mental health and substance abuse counseling services to those seeking to achieve lasting recovery. We believe that every individual has the potential to overcome their challenges and live a fulfilling life, and we are committed to supporting our clients in their journey towards healing and personal growth."
     },
     {
         "id": 2,
         "title": "Services",
-        "excerpt": ["<p class='text-block'>It was a big, round room with a high arched roof, and the walls and ceiling and floor were covered with large emeralds set closely together.</p>", "<p>In a word, the whale was seized and sold, and his Grace the Duke of Wellington received the money. Thinking that viewed in some particular lights, the case might by a bare possibility in some small degree be deemed, under the circumstances, a rather hard one, an honest clergyman of the town addressed a note to his Grace.</p>"]
+        "excerpt": ["<p class='text-block'>Behavioral Health Services and Substance Abuse Counseling facilities provide comprehensive assessments and evaluations to identify the root causes of an individual's mental health or substance abuse problems. This may include psychological assessments, addiction assessments, and medical evaluations.</p>", "<p>Individual and Group Counseling:  <br> Medication management: <br/> Family therapy: <br/> Life skills training:<p/>"]
     },
     {
         "id": 3,
@@ -16,9 +16,9 @@
     {
         "id": 4,
         "gallery": {
-            "imageOne": "img/about/01.jpg",
-            "imageTwo": "img/about/02.jpg",
-            "imageThree": "img/about/03.jpg"
+            "imageOne": "img/about/addiction-treatment.jpg",
+            "imageTwo": "img/about/streetsign.png",
+            "imageThree": "img/about/seo-1869-bs-african-american-psychiatrist-241187695-1200x675.jpeg"
         }
     },
     {
@@ -28,7 +28,7 @@
             {
                 "id": 2,
                 "title": "Arizona",
-                "list": ["3rd Floor, 692 Orchard St, NY 10000, Newyork", "+04200 4739 6899 6880", "office@hope.com"]
+                "list": ["arizona office address", "602-000-0000", "office@secondwind.com"]
             }
         ]
     }

@@ -259,7 +259,7 @@
     li {
       .main-menu-link {
         &:hover {
-          color: #6d0101;
+          color: #103883;
         }
 
         &::before {
@@ -268,7 +268,7 @@
           left: 0;
           width: 0%;
           height: 2px;
-          background: #6d0101;
+          background: #103883;
           content: "";
           transition: all 0.3s;
         }
@@ -277,7 +277,7 @@
       &.active,
       &:hover {
         .main-menu-link {
-          color: #6d0101;
+          color: #103883;
           &::before {
             width: 100%;
           }

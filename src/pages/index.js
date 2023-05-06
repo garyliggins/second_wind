@@ -19,7 +19,7 @@ const HomePage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Second Wind Rehabilitation Services" />
+                <SEO title="Second Wind - Home" />
                 <div className="wrapper home-default-wrapper">
                     <Header />
                     <div className="main-content site-wrapper-reveal">

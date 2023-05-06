@@ -11,7 +11,7 @@ const ContactPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Hope – Contact" />
+                <SEO title="Second Wind – Contact" />
                 <div className="wrapper">
                     <Header />
                     <div className="main-content site-wrapper-reveal">
