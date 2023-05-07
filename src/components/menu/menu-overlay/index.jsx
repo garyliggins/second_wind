@@ -5,7 +5,7 @@ const MenuOverlay = ({ show }) => {
 };
 
 MenuOverlay.propTypes = {
-    show: PropTypes.bool,
+    show: PropTypes,
 };
 
 export default MenuOverlay;

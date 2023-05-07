@@ -29,6 +29,7 @@ body {
 .offcanvas {
   &.offcanvas-open {
     @include transform(translateX(0));
+    // visibility: visible;
   }
   &.offcanvas-mobile-menu {
     right: auto;
@@ -36,6 +37,7 @@ body {
     transform: translateX(-100%);
     &.offcanvas-open {
       transform: translateX(0);
+      visibility: visible;
     }
   }
 

@@ -36,7 +36,7 @@ const Header = () => {
                             <div className="col">
                                 <p>
                                     <i className="icofont-google-map"></i>{" "}
-                                    <span>ADDRESS: </span>Arizona
+                                    <span>ADDRESS:</span>Arizona
                                 </p>
                             </div>
                             <div className="col">
