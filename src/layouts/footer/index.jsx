@@ -178,17 +178,11 @@ const Footer = () => {
                         <div className="col-sm-12">
                             <div className="widget-copyright">
                                 <p>
-                                    &copy; 2021{" "}
-                                    <span className="text-uppercase">hope</span>
+                                    &copy; 2023{" "}
+                                    <span className="text-uppercase">Second Wind</span>
                                     . Made with{" "}
-                                    <i className="icofont-heart-alt"></i> by{" "}
-                                    <a
-                                        target="_blank"
-                                        href="https://www.hasthemes.com"
-                                        rel="noreferrer"
-                                    >
-                                        HasThemes
-                                    </a>
+                                    <i className="icofont-heart-alt"></i> by {" "}
+                                    Liggins Development
                                 </p>
                             </div>
                         </div>
