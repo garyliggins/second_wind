@@ -9,8 +9,8 @@ const MedicalFeatureContainer = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <SectionTitle
-                            subTitle="Why Choose hope Medical"
-                            title="<span>The Best</span> For Your Health"
+                            subTitle="Why Choose Second Wind"
+                            title="<span>The Best</span> For Your Prosperity"
                         />
                     </div>
                 </div>

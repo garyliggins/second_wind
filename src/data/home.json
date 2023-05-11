@@ -27,13 +27,13 @@
                 "id": 1,
                 "backgroundImage": "./img/slider/close-up-people-holding-hands.jpg",
                 "subTitle": "feel the difference with us",
-                "title": "Your Health <span>Is</span><span class='d-block'>Our Priority</span>"
+                "title": "Your Prosperity <span>Is</span><span class='d-block'>Our Priority</span>"
             },
             {
                 "id": 2,
                 "backgroundImage": "./img/slider/4295312.jpg",
                 "subTitle": "feel the difference with us",
-                "title": "Your Health <span>Is</span><span class='d-block'>Our Priority</span>"
+                "title": "Your Prosperity <span>Is</span><span class='d-block'>Our Priority</span>"
             }
         ]
     },
@@ -43,19 +43,19 @@
                 "id": 1,
                 "icon": "icon icofont-stethoscope-alt",
                 "title": "Diagnose",
-                "subTitle": "Examination & Diagnosis"
+                "subTitle": "need a good subtitle for diagnose & change image"
             },
             {
                 "id": 2,
                 "icon": "icon icofont-brain-alt",
                 "title": "Treatment",
-                "subTitle": "Treatment of the disease"
+                "subTitle": "need a good subtitle for treatment & change image"
             },
             {
                 "id": 3,
                 "icon": "icon icofont-paralysis-disability",
-                "title": "Care Healthy",
-                "subTitle": "Care and recuperation"
+                "title": "Wellness",
+                "subTitle": "need a good subtitle for wellness & change image"
             }
         ]
     },
@@ -64,37 +64,37 @@
             {
                 "id": 1,
                 "icon": "icofont-prescription",
-                "title": "Medical Counseling",
+                "title": "Group Counseling",
                 "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
             },
             {
                 "id": 2,
                 "icon": "icofont-doctor-alt",
-                "title": "Top Level Doctors",
+                "title": "One on One Couseling",
                 "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
             },
             {
                 "id": 3,
                 "icon": "icofont-microscope",
-                "title": "Medical Facilites",
+                "title": "Virtual therapy",
                 "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
             },
             {
                 "id": 4,
                 "icon": "icofont-ambulance-cross",
-                "title": "24 Hours Services",
+                "title": "Job training and life skills",
                 "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
             },
             {
                 "id": 5,
                 "icon": "icofont-blood",
-                "title": "Personal Services",
+                "title": "Temporary housing assistance",
                 "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
             },
             {
                 "id": 6,
                 "icon": "icofont-paralysis-disability",
-                "title": "Dedicated Patient Care",
+                "title": "treatment",
                 "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
             }
         ]
@@ -213,19 +213,19 @@
                 "id": 1,
                 "image": "img/cases/01.jpg",
                 "name": "Natalie Huston",
-                "department": "Teeth Cleaning, High-tech materials"
+                "department": "mental health"
             },
             {
                 "id": 2,
                 "image": "img/cases/02.jpg",
                 "name": "Angela Mayer",
-                "department": "Teeth Cleaning"
+                "department": "drug abuse"
             },
             {
                 "id": 3,
                 "image": "img/cases/01.jpg",
                 "name": "Natalie Huston",
-                "department": "Teeth Cleaning, High-tech materials"
+                "department": "counseling"
             }
         ]
     }

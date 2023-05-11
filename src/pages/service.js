@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React from "react";
 import Layout from "../layouts/index.jsx";
 import Header from "../layouts/header";
@@ -21,7 +22,7 @@ const ServicePage = () => {
                     <div className="main-content site-wrapper-reveal">
                         <PageTitleContainer
                             image="img/slider/main-slide-01.jpg"
-                            subTitle="Best solution for your heatlh"
+                            subTitle="The Best solution for your Prosperity"
                             title="Services <span>That We Provide</span>"
                         />
                         <ServiceContainer />

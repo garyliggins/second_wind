@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import SocialIcon from "../../components/social-icon";
 import Button from "../../components/button";
 import Logo from "../../components/logo";

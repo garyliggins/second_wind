@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import SocialIcon from "../../components/social-icon";
 import { Link } from "react-router-dom";
 import Newsletter from "../../components/newsletter";

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 function flatDeep(arr, d = 1) {
     return d > 0
         ? arr.reduce(

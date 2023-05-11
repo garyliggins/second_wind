@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React from "react";
 import AboutData from "../../data/about.json";
 import ServiceData from "../../data/service.json";

@@ -12,7 +12,7 @@ const ServiceContainer = () => {
                         <SectionTitle
                             classOption="text-center"
                             subTitle="Our services"
-                            title="<span>Best Solution</span> For Your Health"
+                            title="<span>Best Solution</span> For Your Prosperity"
                         />
                     </div>
                 </div>

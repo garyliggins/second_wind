@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React from "react";
 import Layout from "../layouts/index.jsx";
 import Header from "../layouts/header";
