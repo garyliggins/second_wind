@@ -22,8 +22,8 @@ const ServicePage = () => {
                     <div className="main-content site-wrapper-reveal">
                         <PageTitleContainer
                             image="img/slider/main-slide-01.jpg"
-                            subTitle="The Best solution for your Prosperity"
-                            title="Services <span>That We Provide</span>"
+                            subTitle="Your Future"
+                            title="Hope | Health | Happiness"
                         />
                         <ServiceContainer />
                         <TestimonialContainer />

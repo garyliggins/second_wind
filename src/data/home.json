@@ -26,14 +26,14 @@
             {
                 "id": 1,
                 "backgroundImage": "./img/slider/close-up-people-holding-hands.jpg",
-                "subTitle": "feel the difference with us",
-                "title": "Your Prosperity <span>Is</span><span class='d-block'>Our Priority</span>"
+                "subTitle": "Your Second Chance",
+                "title": "Sobriety Success <span>&</span><span class='d-block'>Unlocking Your Potential</span>"
             },
             {
                 "id": 2,
                 "backgroundImage": "./img/slider/4295312.jpg",
-                "subTitle": "feel the difference with us",
-                "title": "Your Prosperity <span>Is</span><span class='d-block'>Our Priority</span>"
+                "subTitle": "Your Second Chance",
+                "title": "Sobriety Success <span>&</span><span class='d-block'>Unlocking Your Potential</span>"
             }
         ]
     },
@@ -43,19 +43,19 @@
                 "id": 1,
                 "icon": "icon icofont-stethoscope-alt",
                 "title": "Diagnose",
-                "subTitle": "need a good subtitle for diagnose & change image"
+                "subTitle": "Identifying and understanding your health conditions."
             },
             {
                 "id": 2,
                 "icon": "icon icofont-brain-alt",
                 "title": "Treatment",
-                "subTitle": "need a good subtitle for treatment & change image"
+                "subTitle": "Providing professional, guided and safe interventions to aid in overall wellness."
             },
             {
                 "id": 3,
                 "icon": "icon icofont-paralysis-disability",
                 "title": "Wellness",
-                "subTitle": "need a good subtitle for wellness & change image"
+                "subTitle": "Guiding you toward overall mental, physical and emotional well-being."
             }
         ]
     },
@@ -65,38 +65,39 @@
                 "id": 1,
                 "icon": "icofont-prescription",
                 "title": "Group Counseling",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "excerpt": "Professional counseling services designed to encourage healing in a safe, community style environment."
             },
             {
                 "id": 2,
                 "icon": "icofont-doctor-alt",
                 "title": "One on One Couseling",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "excerpt": "Professional counseling services designed to encourage healing in a safe, individualized environment."
             },
             {
                 "id": 3,
                 "icon": "icofont-microscope",
                 "title": "Virtual therapy",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "excerpt": "Professional counseling services designed to encourage healing in a safe, virtual environment."
             },
             {
                 "id": 4,
                 "icon": "icofont-ambulance-cross",
                 "title": "Job training and life skills",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "excerpt": "Providing support and resources for practical job readiness, professional skill development and essential skills that encourage independence and adaptability."
             },
             {
                 "id": 5,
                 "icon": "icofont-blood",
                 "title": "Temporary housing assistance",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "excerpt": "Providing short-term, safe, and sanitary housing assistance."
             },
-            {
+                {
                 "id": 6,
                 "icon": "icofont-paralysis-disability",
-                "title": "treatment",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "title": "Relapse Prevention",
+                "excerpt": "Encouraging proactive strategies and coping mechanisms that prevent setbacks."
             }
+        
         ]
     },
     {
