@@ -90,7 +90,7 @@ const AppointmentForm = () => {
                     <div className="col-md-12">
                         <div className="form-group mb-0">
                             <button className="btn btn-theme" type="submit">
-                                Make an appointment
+                                Submit
                             </button>
                         </div>
                     </div>

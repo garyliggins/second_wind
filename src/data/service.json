@@ -15,20 +15,20 @@
             }
         ],
         "icon": "icofont-brain",
-        "title": "Anger management",
-        "excerpt": "Lorem ispm dolor sit amaettum prahraph dolor sum",
-        "categories": ["Addiction education", "Relapse prevention", "Group Counseling", "One on One Therapy", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
-        "body": ["<p>Meditex Clinics Department of Dental Specialties in Minnesota provides coordinated care for adults and children who require specialized dental care. Depending on the persons needs, care may include one specialty or more than one (multispecialty care, also called multidisciplinary care).</p>", "<p>An attractive, healthy smile is an important part of life. Our General Dentistry Department provides a broad range of services to meet your family’s dental needs including:</p>", "<p>Preventive Dental Care:</p>", "<ul class='list-style1'><li>Oral Exam/Radiograph Study (mandatory at initial visit)</li><li>Periodontal Scaling/Deep Cleaning</li><li>Dental care for pregnant patients consists on evaluation and cleaning; mainly,to educate patients on oral health care and pregnancy</li><li>Restorative Dentistry – Amalgam/Composite Fillings</li></ul>"],
+        "title": "Anger Management",
+        "excerpt": "Helping individuals understand, manage and cope with deep, anger related challenges.",
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "body": ["<p>By providing you with customized support and a professional setting that is safe and judge-free, Second Wind Rehabilitation Services aims to encourage and empower you to manage and cope with deep, anger related challenges. This support is facilitated through a combination of counseling services that assist you in understanding the root of your anger challenges so you can gain skills and apply techniques that balance your emotions and improve your relationships. </p>"],
         "priceList": [
             {
                 "id": 1,
-                "listTitle": "Addiction education",
-                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+                "listTitle": "",
+                "listArray": []
             },
             {
                 "id": 2,
-                "listTitle": "Relapse prevention",
-                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+                "listTitle": "",
+                "listArray": []
             }
         ]
     },
@@ -39,21 +39,21 @@
             "thumb": "img/photos/department-s1.jpg",
             "image": "img/photos/department-s1.jpg"
         },
-        "icon": "icofont-eye",
-        "title": "Prescription drugs",
-        "excerpt": "Lorem ispm dolor sit amaettum prahraph dolor sum",
-        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
-        "body": ["<p>Meditex Clinics Department of Dental Specialties in Minnesota provides coordinated care for adults and children who require specialized dental care. Depending on the persons needs, care may include one specialty or more than one (multispecialty care, also called multidisciplinary care).</p>", "<p>An attractive, healthy smile is an important part of life. Our General Dentistry Department provides a broad range of services to meet your family’s dental needs including:</p>", "<p>Preventive Dental Care:</p>", "<ul class='list-style1'><li>Oral Exam/Radiograph Study (mandatory at initial visit)</li><li>Periodontal Scaling/Deep Cleaning</li><li>Dental care for pregnant patients consists on evaluation and cleaning; mainly,to educate patients on oral health care and pregnancy</li><li>Restorative Dentistry – Amalgam/Composite Fillings</li></ul>"],
+        "icon": "icofont-prescription",
+        "title": "Prescription Drugs",
+        "excerpt": "Offering doctor-prescribed medication for individualized health or medical conditions.",
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "body": ["<p>Keeping your health and overall wellness as the top priority at Second Wind Rehabilitation Services will always serve as our mission. Medication is prescribed on a case-by-case basis, taking individual medical conditions, ailments and other needs into consideration. All medications are prescribed by a qualified doctor who also provides you with the necessary guidance for consumption.</p>"],
         "priceList": [
             {
                 "id": 1,
-                "listTitle": "Anger management",
-                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+                "listTitle": "",
+                "listArray": []
             },
             {
                 "id": 2,
-                "listTitle": "Coping skills",
-                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+                "listTitle": "",
+                "listArray": []
             }
         ]
     },
@@ -65,20 +65,20 @@
             "image": "img/photos/department-s1.jpg"
         },
         "icon": "icofont-heart-beat",
-        "title": "Relapse prevention",
-        "excerpt": "Lorem ispm dolor sit amaettum prahraph dolor sum",
-        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
-        "body": ["<p>Meditex Clinics Department of Dental Specialties in Minnesota provides coordinated care for adults and children who require specialized dental care. Depending on the persons needs, care may include one specialty or more than one (multispecialty care, also called multidisciplinary care).</p>", "<p>An attractive, healthy smile is an important part of life. Our General Dentistry Department provides a broad range of services to meet your family’s dental needs including:</p>", "<p>Preventive Dental Care:</p>", "<ul class='list-style1'><li>Oral Exam/Radiograph Study (mandatory at initial visit)</li><li>Periodontal Scaling/Deep Cleaning</li><li>Dental care for pregnant patients consists on evaluation and cleaning; mainly,to educate patients on oral health care and pregnancy</li><li>Restorative Dentistry – Amalgam/Composite Fillings</li></ul>"],
+        "title": "Relapse Prevention",
+        "excerpt": "Encouraging proactive strategies and coping mechanisms that prevent setbacks.",
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "body": ["<p>By providing you with the proper strategies, resources and support you need, Second Wind Rehabilitation Services aims to assist you in maintaining your sobriety and avoiding setbacks. Relapse prevention is facilitated through counseling services that provide understanding of individual triggers and negative coping mechanisms. After identifying past, current and potential stressors, our staff members are able to empower, educate and encourage you to develop a healthier lifestyle, proactive strategies and healthier coping mechanisms.</p>"],
         "priceList": [
             {
                 "id": 1,
-                "listTitle": "Addiction education",
-                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+                "listTitle": "",
+                "listArray": []
             },
             {
                 "id": 2,
-                "listTitle": "Restorative Dentistry",
-                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+                "listTitle": "",
+                "listArray": []
             }
         ]
     },
@@ -89,21 +89,21 @@
             "thumb": "img/photos/department-s1.jpg",
             "image": "img/photos/department-s1.jpg"
         },
-        "icon": "icofont-microscope-alt",
+        "icon": "icofont-users-social",
         "title": "Group Counseling",
-        "excerpt": "Lorem ispm dolor sit amaettum prahraph dolor sum",
-        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
-        "body": ["<p>Meditex Clinics Department of Dental Specialties in Minnesota provides coordinated care for adults and children who require specialized dental care. Depending on the persons needs, care may include one specialty or more than one (multispecialty care, also called multidisciplinary care).</p>", "<p>An attractive, healthy smile is an important part of life. Our General Dentistry Department provides a broad range of services to meet your family’s dental needs including:</p>", "<p>Preventive Dental Care:</p>", "<ul class='list-style1'><li>Oral Exam/Radiograph Study (mandatory at initial visit)</li><li>Periodontal Scaling/Deep Cleaning</li><li>Dental care for pregnant patients consists on evaluation and cleaning; mainly,to educate patients on oral health care and pregnancy</li><li>Restorative Dentistry – Amalgam/Composite Fillings</li></ul>"],
+        "excerpt": "Professional counseling services designed to encourage healing in a safe, community style environment.",
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "body": ["<p>Providing you with a professional environment to gain self-awareness, share perspectives, explore similar experiences and overcome obstacles amongst peers allows Second Wind Rehabilitation Services to facilitate group counseling in a safe, non-judgemental and confidential space. Group counseling offers a combination of coummunity, therapy based exercises, resources and feedback that encourages growth, healing and reflection. </p>"],
         "priceList": [
             {
                 "id": 1,
-                "listTitle": "Cosmetic Dentistry",
-                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+                "listTitle": "",
+                "listArray": []
             },
             {
                 "id": 2,
-                "listTitle": "Restorative Dentistry",
-                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+                "listTitle": "",
+                "listArray": []
             }
         ]
     },
@@ -114,21 +114,21 @@
             "thumb": "img/photos/department-s1.jpg",
             "image": "img/photos/department-s1.jpg"
         },
-        "icon": "icofont-blood-drop",
+        "icon": "icofont-users-alt-4",
         "title": "One on One Counseling",
-        "excerpt": "Lorem ispm dolor sit amaettum prahraph dolor sum",
-        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
-        "body": ["<p>Meditex Clinics Department of Dental Specialties in Minnesota provides coordinated care for adults and children who require specialized dental care. Depending on the persons needs, care may include one specialty or more than one (multispecialty care, also called multidisciplinary care).</p>", "<p>An attractive, healthy smile is an important part of life. Our General Dentistry Department provides a broad range of services to meet your family’s dental needs including:</p>", "<p>Preventive Dental Care:</p>", "<ul class='list-style1'><li>Oral Exam/Radiograph Study (mandatory at initial visit)</li><li>Periodontal Scaling/Deep Cleaning</li><li>Dental care for pregnant patients consists on evaluation and cleaning; mainly,to educate patients on oral health care and pregnancy</li><li>Restorative Dentistry – Amalgam/Composite Fillings</li></ul>"],
+        "excerpt": "Professional counseling services designed to encourage healing in a safe, individualized environment.",
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "body": ["<p>Giving you a safe and confidential space to share your experiences, understand your challenges and develop coping strategies allows Second Wind Rehabilitation Services to provide treatment plans specific to your needs. One on One Counseling is designed to encourage you to explore your emotions and empower you to address challenges head on in order to achieve an overall healthier lifestyle.</p>"],
         "priceList": [
             {
                 "id": 1,
-                "listTitle": "Cosmetic Dentistry",
-                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+                "listTitle": "",
+                "listArray": []
             },
             {
                 "id": 2,
-                "listTitle": "Restorative Dentistry",
-                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+                "listTitle": "",
+                "listArray": []
             }
         ]
     },
@@ -139,21 +139,21 @@
             "thumb": "img/photos/department-s1.jpg",
             "image": "img/photos/department-s1.jpg"
         },
-        "icon": "icofont-laboratory",
-        "title": "Virtual therapy",
-        "excerpt": "Lorem ispm dolor sit amaettum prahraph dolor sum",
-        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
-        "body": ["<p>Meditex Clinics Department of Dental Specialties in Minnesota provides coordinated care for adults and children who require specialized dental care. Depending on the persons needs, care may include one specialty or more than one (multispecialty care, also called multidisciplinary care).</p>", "<p>An attractive, healthy smile is an important part of life. Our General Dentistry Department provides a broad range of services to meet your family’s dental needs including:</p>", "<p>Preventive Dental Care:</p>", "<ul class='list-style1'><li>Oral Exam/Radiograph Study (mandatory at initial visit)</li><li>Periodontal Scaling/Deep Cleaning</li><li>Dental care for pregnant patients consists on evaluation and cleaning; mainly,to educate patients on oral health care and pregnancy</li><li>Restorative Dentistry – Amalgam/Composite Fillings</li></ul>"],
+        "icon": "icofont-live-support",
+        "title": "Virtual Therapy",
+        "excerpt": "Professional counseling services designed to encourage healing in a safe, virtual environment.",
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "body": ["<p>Ensuring that you have access to therapy services from the comfort of your home or a quiet location where you feel comfortable gives Second Wind Rehabilitation Services the ability to serve you without physical health or location constraints. Virtual therapy provides you with all of the same benefits as One on One Counseling with the goal of helping you achieve an overall healthier lifestyle.</p>"],
         "priceList": [
             {
                 "id": 1,
-                "listTitle": "Cosmetic Dentistry",
-                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+                "listTitle": "",
+                "listArray": []
             },
             {
                 "id": 2,
-                "listTitle": "Restorative Dentistry",
-                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+                "listTitle": "",
+                "listArray": []
             }
         ]
     },
@@ -164,21 +164,21 @@
             "thumb": "img/photos/department-s1.jpg",
             "image": "img/photos/department-s1.jpg"
         },
-        "icon": "icofont-pills",
-        "title": "life skills",
-        "excerpt": "Lorem ispm dolor sit amaettum prahraph dolor sum",
-        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
-        "body": ["<p>Meditex Clinics Department of Dental Specialties in Minnesota provides coordinated care for adults and children who require specialized dental care. Depending on the persons needs, care may include one specialty or more than one (multispecialty care, also called multidisciplinary care).</p>", "<p>An attractive, healthy smile is an important part of life. Our General Dentistry Department provides a broad range of services to meet your family’s dental needs including:</p>", "<p>Preventive Dental Care:</p>", "<ul class='list-style1'><li>Oral Exam/Radiograph Study (mandatory at initial visit)</li><li>Periodontal Scaling/Deep Cleaning</li><li>Dental care for pregnant patients consists on evaluation and cleaning; mainly,to educate patients on oral health care and pregnancy</li><li>Restorative Dentistry – Amalgam/Composite Fillings</li></ul>"],
+        "icon": "icofont-search-job",
+        "title": "Job Training & Life Skills",
+        "excerpt": "Providing support and resources for practical job readiness, professional skill development and essential skills that encourage independence and adaptability.",
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "body": ["<p>Setting you up for success with practical job readiness, professional skill development and essential skills that encourage independence and adaptability. At Second Wind Rehabilitation Services, Job Training & Life Skills support provides you with the resources, encouragement and tools you need to transition into complete independence, a successful work-life as well as healthier and more fulfilling relationships.</p>"],
         "priceList": [
             {
                 "id": 1,
-                "listTitle": "Cosmetic Dentistry",
-                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+                "listTitle": "",
+                "listArray": []
             },
             {
                 "id": 2,
-                "listTitle": "Restorative Dentistry",
-                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+                "listTitle": "",
+                "listArray": []
             }
         ]
     },
@@ -189,21 +189,21 @@
             "thumb": "img/photos/department-s1.jpg",
             "image": "img/photos/department-s1.jpg"
         },
-        "icon": "icofont-tooth",
-        "title": "job training assistance",
-        "excerpt": "Lorem ispm dolor sit amaettum prahraph dolor sum",
+        "icon": "icofont-home",
+        "title": "Temporary Housing Assistance",
+        "excerpt": "Providing short-term, safe, and sanitary housing assistance while you are in our care.",
         "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
         "body": ["<p>Meditex Clinics Department of Dental Specialties in Minnesota provides coordinated care for adults and children who require specialized dental care. Depending on the persons needs, care may include one specialty or more than one (multispecialty care, also called multidisciplinary care).</p>", "<p>An attractive, healthy smile is an important part of life. Our General Dentistry Department provides a broad range of services to meet your family’s dental needs including:</p>", "<p>Preventive Dental Care:</p>", "<ul class='list-style1'><li>Oral Exam/Radiograph Study (mandatory at initial visit)</li><li>Periodontal Scaling/Deep Cleaning</li><li>Dental care for pregnant patients consists on evaluation and cleaning; mainly,to educate patients on oral health care and pregnancy</li><li>Restorative Dentistry – Amalgam/Composite Fillings</li></ul>"],
         "priceList": [
             {
                 "id": 1,
-                "listTitle": "Cosmetic Dentistry",
-                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+                "listTitle": "",
+                "listArray": []
             },
             {
                 "id": 2,
-                "listTitle": "Restorative Dentistry",
-                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+                "listTitle": "",
+                "listArray": []
             }
         ]
     }

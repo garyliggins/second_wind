@@ -143,7 +143,7 @@ const Header = () => {
                                     <Button
                                         path={process.env.PUBLIC_URL + "/"}
                                         classOption="book-now-btn"
-                                        text="book an appointment"
+                                        text="will be a link to calendly"
                                     />
                                 </div>
                             </div>
@@ -164,7 +164,7 @@ const Header = () => {
                                     <Button
                                         path={process.env.PUBLIC_URL + "/"}
                                         classOption="book-now-btn"
-                                        text="book an appointment"
+                                        text="will be a link to calendly"
                                     />
                                 </div>
                             </div>

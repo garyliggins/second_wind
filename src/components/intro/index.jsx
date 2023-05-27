@@ -22,7 +22,7 @@ const Intro = ({ data }) => {
                                 className="title animated delay2"
                                 dangerouslySetInnerHTML={{ __html: data.title }}
                             />
-                            <Button
+                            {/* <Button
                                 path={process.env.PUBLIC_URL + "/"}
                                 classOption="btn btn-danger me-3 animated delay1"
                                 text="Get a quote"
@@ -31,7 +31,7 @@ const Intro = ({ data }) => {
                                 path={process.env.PUBLIC_URL + "/"}
                                 classOption="btn btn-outline-secondary animated delay2"
                                 text="our services"
-                            />
+                            /> */}
                         </div>
                     </div>
                 </div>

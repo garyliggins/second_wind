@@ -17,8 +17,8 @@ const AboutPage = () => {
                     <div className="main-content site-wrapper-reveal">
                         <PageTitleContainer
                             image="img/photos/4295312.jpg"
-                            subTitle="Second Wind"
-                            title="About <br/><span>second wind</span>"
+                            subTitle="Our Promise to You"
+                            title="<span>Compassion | Commitment | Collaboration</span>"
                         />
                         <AboutContainer />
                     </div>

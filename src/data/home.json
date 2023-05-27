@@ -26,14 +26,14 @@
             {
                 "id": 1,
                 "backgroundImage": "./img/slider/close-up-people-holding-hands.jpg",
-                "subTitle": "Your Second Chance",
+                "subTitle": "Giving You a Second Chance",
                 "title": "Sobriety Success <span>&</span><span class='d-block'>Unlocking Your Potential</span>"
             },
             {
                 "id": 2,
                 "backgroundImage": "./img/slider/4295312.jpg",
-                "subTitle": "Your Second Chance",
-                "title": "Sobriety Success <span>&</span><span class='d-block'>Unlocking Your Potential</span>"
+                "subTitle": "Restoring Hope & Wellness",
+                "title": "Your Journey <span>Is</span><span class='d-block'>Our Priority</span>"
             }
         ]
     },
@@ -63,37 +63,37 @@
         "medicalFeature": [
             {
                 "id": 1,
-                "icon": "icofont-prescription",
+                "icon": "icofont-users-social",
                 "title": "Group Counseling",
                 "excerpt": "Professional counseling services designed to encourage healing in a safe, community style environment."
             },
             {
                 "id": 2,
-                "icon": "icofont-doctor-alt",
+                "icon": "icofont-users-alt-4",
                 "title": "One on One Couseling",
                 "excerpt": "Professional counseling services designed to encourage healing in a safe, individualized environment."
             },
             {
                 "id": 3,
-                "icon": "icofont-microscope",
+                "icon": "icofont-live-support",
                 "title": "Virtual therapy",
                 "excerpt": "Professional counseling services designed to encourage healing in a safe, virtual environment."
             },
             {
                 "id": 4,
-                "icon": "icofont-ambulance-cross",
+                "icon": "icofont-search-job",
                 "title": "Job training and life skills",
                 "excerpt": "Providing support and resources for practical job readiness, professional skill development and essential skills that encourage independence and adaptability."
             },
             {
                 "id": 5,
-                "icon": "icofont-blood",
+                "icon": "icofont-home",
                 "title": "Temporary housing assistance",
                 "excerpt": "Providing short-term, safe, and sanitary housing assistance."
             },
                 {
                 "id": 6,
-                "icon": "icofont-paralysis-disability",
+                "icon": "icofont-heart-beat",
                 "title": "Relapse Prevention",
                 "excerpt": "Encouraging proactive strategies and coping mechanisms that prevent setbacks."
             }
