@@ -37,7 +37,7 @@ const Header = () => {
                             <div className="col">
                                 <p>
                                     <i className="icofont-google-map"></i>{" "}
-                                    <span>ADDRESS:</span>Arizona
+                                    <span>ADDRESS:</span> Nevada
                                 </p>
                             </div>
                             <div className="col">
@@ -84,8 +84,8 @@ const Header = () => {
                             <div className="col-12">
                                 <div className="header-middle-content">
                                     <div className="header-logo">
-                                        <Logo
-                                            image={`${process.env.PUBLIC_URL}/img/logo.png`}
+                                        <Logo 
+                                            image={`${process.env.PUBLIC_URL}/img/small-second-wind.png`}
                                         />
                                     </div>
                                     <ul className="media-wrap d-none d-lg-flex">
