@@ -37,7 +37,7 @@ const Header = () => {
                             <div className="col">
                                 <p>
                                     <i className="icofont-google-map"></i>{" "}
-                                    <span>ADDRESS:</span>Arizona
+                                    <span>ADDRESS: </span>Las Vegas
                                 </p>
                             </div>
                             <div className="col">
@@ -140,11 +140,11 @@ const Header = () => {
                             <div className="col-lg-12">
                                 <div className="d-flex flex-wrap align-items-center justify-content-between">
                                     <MainMenu />
-                                    <Button
+                                    {/* <Button
                                         path={process.env.PUBLIC_URL + "/"}
                                         classOption="book-now-btn"
                                         text="will be a link to calendly"
-                                    />
+                                    /> */}
                                 </div>
                             </div>
                         </div>
@@ -161,11 +161,11 @@ const Header = () => {
                             <div className="col-lg-12">
                                 <div className="d-flex flex-wrap align-items-center justify-content-between">
                                     <MainMenu />
-                                    <Button
+                                    {/* <Button
                                         path={process.env.PUBLIC_URL + "/"}
                                         classOption="book-now-btn"
                                         text="will be a link to calendly"
-                                    />
+                                    /> */}
                                 </div>
                             </div>
                         </div>

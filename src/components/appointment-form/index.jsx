@@ -28,7 +28,7 @@ const AppointmentForm = () => {
                                 className="form-control"
                                 type="email"
                                 name="email"
-                                placeholder="demo@yourmail.com"
+                                placeholder="Email"
                                 ref={register({
                                     required: "Email is required",
                                     pattern: {

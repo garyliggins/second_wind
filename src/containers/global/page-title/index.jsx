@@ -9,10 +9,10 @@ const PageTitleContainer = ({ subTitle, title, image }) => {
             className="page-title-area bg-img bg-img-top"
             style={{ backgroundImage: `url(${publicUrl}/${image})` }}
         >
-            <div className="container" >
-                <div className="row" >
+            <div className="container">
+                <div className="row">
                     <div
-                        className="col-lg-6 col-xl-7 m-auto" style={{width: "100%"}}
+                        className="col-lg-6 col-xl-7 m-auto" style={{ width: "100%" }}
                         data-aos="fade-up"
                     >
                         <PageTitle subTitle={subTitle} title={title} />

@@ -23,19 +23,18 @@ const Footer = () => {
                                 <ul className="widget-contact-info">
                                     <li className="info-address">
                                         <i className="icofont-location-pin"></i>
-                                        69 Halsey St, New York, Ny 10002, United
-                                        States.
+                                        Las vegas, Nevada
                                     </li>
                                     <li className="info-mail">
                                         <i className="icofont-email"></i>
                                         <a href="mailto://hello@yourdomain.com">
-                                            hello@yourdomain.com
+                                            support@secondwindhealth.org
                                         </a>
                                     </li>
                                     <li className="info-phone">
                                         <i className="icofont-ui-call"></i>
-                                        <a href="tel://(0091)8547632521">
-                                            (0091) 8547 632521
+                                        <a href="tel://(424)5351855">
+                                            (424) 535 1855
                                         </a>
                                     </li>
                                 </ul>
@@ -43,7 +42,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <div className="col-sm-6 col-md-6 offset-md-1 col-lg-3 offset-lg-0 col-xl-3 d-lg-none d-xl-block">
-                        <div className="widget-item d-inline-block">
+                        {/* <div className="widget-item d-inline-block">
                             <h4 className="widget-title line-bottom">
                                 Popular Tags
                             </h4>
@@ -81,9 +80,9 @@ const Footer = () => {
                                     </li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
-                    <div className="col-sm-6 col-md-5 col-lg-4 col-xl-3">
+                    {/* <div className="col-sm-6 col-md-5 col-lg-4 col-xl-3">
                         <div className="widget-item">
                             <h4 className="widget-title line-bottom">
                                 Recent Posts
@@ -129,7 +128,7 @@ const Footer = () => {
                                 </ul>
                             </nav>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="col-sm-6 col-md-6 offset-md-1 col-lg-4 offset-lg-0 col-xl-3">
                         <div className="widget-item">
                             <h4 className="widget-title line-bottom">
@@ -140,7 +139,7 @@ const Footer = () => {
                                     Sign up for our mailing list to get latest
                                     updates and offers.
                                 </p>
-                                <Newsletter mailchimpUrl="//devitems.us11.list-manage.com/subscribe/post?u=6bbb9b6f5827bd842d9640c82&amp;id=05d85f18ef" />
+                                <Newsletter mailchimpUrl="https://app.us21.list-manage.com/subscribe/post?u=d1d55230cf14c2acf77dcf2e1&amp;id=12db1fcee4&amp;f_id=0087d5e6f0" />
                             </div>
                             <div className="widget-social-icons">
                                 <SocialIcon

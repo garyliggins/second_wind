@@ -8,7 +8,7 @@ const ContactForm = () => {
     return (
         <form
             className="contact-form-wrapper"
-            action="https://getform.io/f/a17a2715-d7ee-4ac4-8fcb-12f1eed43b2c"
+            action="https://getform.io/f/d9e882b4-99d9-4735-b9e8-d3232fd80cac"
             method="POST"
             data-aos="fade-up"
             data-aos-duration="1200"

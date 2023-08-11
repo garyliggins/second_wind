@@ -21,7 +21,7 @@ const ServicePage = () => {
                     <Header />
                     <div className="main-content site-wrapper-reveal">
                         <PageTitleContainer
-                            image="img/slider/main-slide-01.jpg"
+                            image="img/photos/familyImage3.jpeg"
                             subTitle="Helping You Restore"
                             title="Hope • Health • Happiness"
                             

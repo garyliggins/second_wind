@@ -26,7 +26,7 @@ const HomePage = () => {
                         <IntroContainer />
                         <HealthFeatureContainer />
                         <MedicalFeatureContainer />
-                        <AppointmentContainer />
+                        {/* <AppointmentContainer /> */}
                         <TeamContainer />
                         <TestimonialContainer />
                         <BrandContainer />
