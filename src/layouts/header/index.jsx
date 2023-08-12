@@ -37,20 +37,20 @@ const Header = () => {
                             <div className="col">
                                 <p>
                                     <i className="icofont-google-map"></i>{" "}
-                                    <span>ADDRESS: </span>Las Vegas
+                                    <span>ADDRESS: </span> LAS VEGAS, NEVADA
                                 </p>
                             </div>
                             <div className="col">
                                 <ul className="social-links text-end">
                                     <li>
                                         <SocialIcon
-                                            path="https://twitter.com/"
-                                            icon="icofont-twitter"
+                                            path="https://www.linkedin.com/company/second-wind-behavioral-health-centers"
+                                            icon="icofont-linkedin"
                                         />
                                     </li>
                                     <li>
                                         <SocialIcon
-                                            path="https://www.facebook.com/"
+                                            path="https://www.facebook.com/profile.php?id=61550310292587"
                                             icon="icofont-facebook"
                                         />
                                     </li>
@@ -60,12 +60,7 @@ const Header = () => {
                                             icon="icofont-instagram"
                                         />
                                     </li>
-                                    <li>
-                                        <SocialIcon
-                                            path="https://rss.com/"
-                                            icon="icofont-rss-feed"
-                                        />
-                                    </li>
+                                 
                                     <li>
                                         <SocialIcon
                                             path="https://www.youtube.com/"
@@ -85,7 +80,7 @@ const Header = () => {
                                 <div className="header-middle-content">
                                     <div className="header-logo">
                                         <Logo 
-                                            image={`${process.env.PUBLIC_URL}/img/small-second-wind.png`}
+                                            image={`${process.env.PUBLIC_URL}/img/Second-Wind-rs2.png`}
                                         />
                                     </div>
                                     <ul className="media-wrap d-none d-lg-flex">
@@ -101,11 +96,11 @@ const Header = () => {
                                                 }
                                             )}
                                     </ul>
-                                    <Button
+                                    {/* <Button
                                         path={process.env.PUBLIC_URL + "/"}
                                         classOption="book-now-btn d-none d-sm-inline-block d-lg-none"
                                         text="book an appointment"
-                                    />
+                                    /> */}
                                     <div className="mobile-menu-toggle d-lg-none">
                                         <button
                                             onClick={onCanvasHandler}

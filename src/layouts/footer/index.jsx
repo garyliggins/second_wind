@@ -14,11 +14,10 @@ const Footer = () => {
                             <div className="about-widget">
                                 <Logo
                                     classOption="footer-logo"
-                                    image={`${process.env.PUBLIC_URL}/img/logo-dark.png`}
+                                    image={`${process.env.PUBLIC_URL}/img/second-Wind-RS2.png`}
                                 />
                                 <p className="mb-0">
-                                    Sed elit quam, iaculis sed semper sit amet
-                                    udin vitae nibh at magna akal semperFusce.
+                                Guiding you toward overall mental, physical and emotional well-being.
                                 </p>
                                 <ul className="widget-contact-info">
                                     <li className="info-address">
@@ -143,28 +142,20 @@ const Footer = () => {
                             </div>
                             <div className="widget-social-icons">
                                 <SocialIcon
-                                    path="https://twitter.com/"
-                                    icon="icofont-twitter"
+                                    path="https://www.linkedin.com/company/second-wind-behavioral-health-centers"
+                                    icon="icofont-linkedin"
                                 />
                                 <SocialIcon
-                                    path="https://myaccount.google.com/"
-                                    icon="icofont-google-plus"
-                                />
-                                <SocialIcon
-                                    path="https://www.pinterest.com/"
-                                    icon="icofont-pinterest"
-                                />
-                                <SocialIcon
-                                    path="https://rss.com/"
-                                    icon="icofont-rss"
-                                />
-                                <SocialIcon
-                                    path="https://www.facebook.com/"
+                                    path="https://www.facebook.com/profile.php?id=61550310292587"
                                     icon="icofont-facebook"
                                 />
                                 <SocialIcon
                                     path="https://dribbble.com/"
-                                    icon="icofont-dribbble"
+                                    icon="icofont-instagram"
+                                />
+                                <SocialIcon
+                                    path="https://dribbble.com/"
+                                    icon="icofont-play-alt-1"
                                 />
                             </div>
                         </div>

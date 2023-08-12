@@ -38,7 +38,7 @@ const MobileMenu = ({ show, onClose }) => {
                 show ? "offcanvas-open" : ""
             }`}
         >
-            <div className="inner">
+            <div className="inner" style={{ paddingRight: "20px" }}>
                 <div className="border-bottom mb-3 pb-3 text-end">
                     <button className="offcanvas-close" onClick={onClose}>
                         ×
@@ -48,7 +48,7 @@ const MobileMenu = ({ show, onClose }) => {
                     <div className="header-top-offcanvas">
                         <p>
                             <i className="icofont-google-map"></i>{" "}
-                            <span>ADDRESS:</span> 568 Elizaberth Str, London, UK
+                            <span>ADDRESS:</span> LAS VEGAS, NEVADA
                         </p>
                     </div>
                 </div>
@@ -69,7 +69,7 @@ const MobileMenu = ({ show, onClose }) => {
                                         exact
                                         to={process.env.PUBLIC_URL + "/"}
                                     >
-                                        Home 1
+                                        Home
                                     </NavLink>
                                 </li>
                             </ul>
@@ -151,13 +151,7 @@ const MobileMenu = ({ show, onClose }) => {
                     <ul>
                         <li>
                             <SocialIcon
-                                path="https://twitter.com/"
-                                icon="icofont-twitter"
-                            />
-                        </li>
-                        <li>
-                            <SocialIcon
-                                path="https://www.facebook.com/"
+                                path="https://www.facebook.com/profile.php?id=61550310292587"
                                 icon="icofont-facebook"
                             />
                         </li>
@@ -169,8 +163,8 @@ const MobileMenu = ({ show, onClose }) => {
                         </li>
                         <li>
                             <SocialIcon
-                                path="https://rss.com/"
-                                icon="icofont-rss-feed"
+                                path="https://www.linkedin.com/company/second-wind-behavioral-health-centers"
+                                icon="icofont-linkedin"
                             />
                         </li>
                         <li>
@@ -192,7 +186,7 @@ const MobileMenu = ({ show, onClose }) => {
                                 working hours
                             </span>
                             <span className="media-heading">
-                                MON - FRI: 9.00 - 21.00{" "}
+                                MON - FRI: 9AM - 5PM{" "}
                             </span>
                         </div>
                     </li>
@@ -203,13 +197,13 @@ const MobileMenu = ({ show, onClose }) => {
                         </span>
                         <div className="media-content">
                             <span className="media-sub-heading">
-                                hotline 24/7
+                                contact us
                             </span>
                             <a
                                 className="media-heading"
-                                href="tel:+0962-58-58-258"
+                                href="tel:424-535-1855"
                             >
-                                +0962-58-58-258
+                                424-535-1855
                             </a>
                         </div>
                     </li>
@@ -222,9 +216,9 @@ const MobileMenu = ({ show, onClose }) => {
                             <span className="media-sub-heading">email us</span>
                             <a
                                 className="media-heading"
-                                href="mailto:support@clenora.com.uk"
+                                href="mailto:support@secondwindhealth.org"
                             >
-                                support@clenora.com.uk
+                                support@secondwindhealth.org
                             </a>
                         </div>
                     </li>

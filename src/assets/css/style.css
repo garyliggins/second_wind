@@ -2911,12 +2911,13 @@ table p {
 */
 .header {
   background: #1e5aca;
+  /* background: white; */
 }
 
 .header-top {
   padding-top: 15px;
   padding-bottom: 15px;
-  border-bottom: 1px solid #9d3a3a;
+  border-bottom: 1px solid white; 
 }
 
 .header-top p {
