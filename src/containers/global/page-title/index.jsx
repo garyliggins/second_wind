@@ -12,7 +12,8 @@ const PageTitleContainer = ({ subTitle, title, image }) => {
             <div className="container">
                 <div className="row">
                     <div
-                        className="col-lg-6 col-xl-7 m-auto" style={{ width: "100%" }}
+                        className="col-lg-6 col-xl-7 m-auto"
+                        style={{ width: "100%" }}
                         data-aos="fade-up"
                     >
                         <PageTitle subTitle={subTitle} title={title} />
