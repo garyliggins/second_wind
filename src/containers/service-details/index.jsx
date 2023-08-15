@@ -51,7 +51,7 @@ const ServiceDetailsContainer = ({ data }) => {
                             <div className="sidebar-wrapper">
                                 <DepartmentWidget data={ServiceData} />
                                 <SidebarWorkingTime />
-                                <Appointment />
+                                {/* <Appointment /> */}
                             </div>
 
                             <div className="department-content">
@@ -92,9 +92,9 @@ const ServiceDetailsContainer = ({ data }) => {
                                                     <span>English</span>
                                                 </li>
                                             </ul>
-                                            <Link to="/" className="btn-link">
+                                            {/* <Link to="/" className="btn-link">
                                                 VIEW FULL PROFILE
-                                            </Link>
+                                            </Link> */}
                                         </div>
                                     </div>
                                     <div className="thumb">
@@ -116,7 +116,7 @@ const ServiceDetailsContainer = ({ data }) => {
                                         <AccordionWrapTwo />
                                     </div>
                                 </div>
-
+                                {/* 
                                 <div className="case-area">
                                     <div className="section-title">
                                         <h2 className="title">
@@ -144,7 +144,7 @@ const ServiceDetailsContainer = ({ data }) => {
                                                 }
                                             )}
                                     </Swiper>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

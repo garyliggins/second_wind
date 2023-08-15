@@ -2910,14 +2910,14 @@ table p {
 
 */
 .header {
-  background: #1e5aca;
-  /* background: white; */
+  background: #fff;
+  
 }
 
 .header-top {
   padding-top: 15px;
   padding-bottom: 15px;
-  border-bottom: 1px solid white; 
+  border-bottom: 1px solid #1e5aca; 
 }
 
 .header-top p {
@@ -2985,6 +2985,7 @@ table p {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+  
 }
 
 @media screen and (min-width: 992px) {
@@ -3031,6 +3032,7 @@ table p {
 @media screen and (min-width: 992px) {
   .media-sub-heading {
     color: #cccccc;
+    
   }
 }
 

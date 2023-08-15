@@ -31,12 +31,12 @@ const IntroContainer = () => {
                             </SwiperSlide>
                         );
                     })}
-                <div className="swiper-button-prev">
+                {/* <div className="swiper-button-prev">
                     <i className="icofont-arrow-left"></i>
                 </div>
                 <div className="swiper-button-next">
                     <i className="icofont-arrow-right"></i>
-                </div>
+                </div> */}
             </Swiper>
         </div>
     );

@@ -26,15 +26,10 @@
             {
                 "id": 1,
                 "backgroundImage": "./img/slider/close-up-people-holding-hands.jpg",
-                "subTitle": "Giving You a Second Chance",
-                "title": "Sobriety Success <span>&</span><span class='d-block'>Unlocking Your Potential</span>"
-            },
-            {
-                "id": 2,
-                "backgroundImage": "./img/slider/4295312.jpg",
                 "subTitle": "Restoring Hope & Wellness",
                 "title": "Your Journey <span>Is</span><span class='d-block'>Our Priority</span>"
             }
+           
         ]
     },
     {

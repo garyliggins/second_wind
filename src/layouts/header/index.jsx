@@ -30,14 +30,14 @@ const Header = () => {
     };
     return (
         <Fragment>
-            <header className="header">
-                <div className="header-top d-none d-lg-block">
-                    <div className="container">
+            <header className="header" >
+                <div className="header-top d-none d-lg-block"  >
+                    <div className="container" >
                         <div className="row row-cols-2">
                             <div className="col">
                                 <p>
                                     <i className="icofont-google-map"></i>{" "}
-                                    <span>ADDRESS: </span> LAS VEGAS, NEVADA
+                                    <span >ADDRESS: </span> LAS VEGAS, NEVADA
                                 </p>
                             </div>
                             <div className="col">
@@ -56,8 +56,8 @@ const Header = () => {
                                     </li>
                                     <li>
                                         <SocialIcon
-                                            path="https://www.instagram.com/"
-                                            icon="icofont-instagram"
+                                            path="https://www.reddit.com/"
+                                            icon="icofont-reddit"
                                         />
                                     </li>
                                  
@@ -77,7 +77,7 @@ const Header = () => {
                     <div className="container">
                         <div className="row">
                             <div className="col-12">
-                                <div className="header-middle-content">
+                                <div className="header-middle-content" >
                                     <div className="header-logo">
                                         <Logo 
                                             image={`${process.env.PUBLIC_URL}/img/Second-Wind-rs2.png`}

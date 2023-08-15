@@ -26,7 +26,7 @@ const Footer = () => {
                                     </li>
                                     <li className="info-mail">
                                         <i className="icofont-email"></i>
-                                        <a href="mailto://hello@yourdomain.com">
+                                        <a href="mailto://support@secondwindhealth.org">
                                             support@secondwindhealth.org
                                         </a>
                                     </li>

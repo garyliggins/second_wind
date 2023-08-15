@@ -10,7 +10,7 @@ const SEO = ({ title }) => {
             <meta name="robots" content="noindex, follow" />
             <meta
                 name="description"
-                content="Second Wind – Health &amp; Second Wind Wellness Community"
+                content="Second Wind – Health &amp; Second Wind Behavioral Health Centers"
             />
             <meta
                 name="viewport"

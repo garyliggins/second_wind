@@ -192,8 +192,8 @@
         "icon": "icofont-home",
         "title": "Temporary Housing Assistance",
         "excerpt": "Providing short-term, safe, and sanitary housing assistance while you are in our care.",
-        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
-        "body": ["<p>Meditex Clinics Department of Dental Specialties in Minnesota provides coordinated care for adults and children who require specialized dental care. Depending on the persons needs, care may include one specialty or more than one (multispecialty care, also called multidisciplinary care).</p>", "<p>An attractive, healthy smile is an important part of life. Our General Dentistry Department provides a broad range of services to meet your family’s dental needs including:</p>", "<p>Preventive Dental Care:</p>", "<ul class='list-style1'><li>Oral Exam/Radiograph Study (mandatory at initial visit)</li><li>Periodontal Scaling/Deep Cleaning</li><li>Dental care for pregnant patients consists on evaluation and cleaning; mainly,to educate patients on oral health care and pregnancy</li><li>Restorative Dentistry – Amalgam/Composite Fillings</li></ul>"],
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "body": ["<p>Providing you with a short-term, safe and sanitary living environment when you are in immediate need of housing assistance. With Second Wind Behavioral Health Centers, temporary housing assistance allows our staff to continue to aid in your specific mental health or substance abuse conditions while providing you with the resources, encouragement and essentials you need in order to rebuild stable, healthy and safe living conditions. </p>"],
         "priceList": [
             {
                 "id": 1,

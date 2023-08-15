@@ -27,10 +27,10 @@ const ServicePage = () => {
                             
                         />
                         <ServiceContainer />
-                        <TestimonialContainer />
+                        {/* <TestimonialContainer /> */}
                         <BrandContainer />
                         <PricingContainer pricingClassOption="noborder-line" />
-                        <CallToAction />
+                        {/* <CallToAction /> */}
                     </div>
                     <Footer />
                     <ScrollToTop />

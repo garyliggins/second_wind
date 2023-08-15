@@ -11,8 +11,8 @@ const PricingContainer = ({ pricingClassOption }) => {
                     <div className="col-lg-12">
                         <SectionTitle
                             classOption="text-center"
-                            subTitle="Pricing List"
-                            title="<span>Protect</span> With Health Care Card"
+                            subTitle="Second Wind Outreach"
+                            title="<span>this will be info about </span> second wind outreach"
                         />
                     </div>
                 </div>

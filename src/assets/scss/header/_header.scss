@@ -1,5 +1,5 @@
 .header {
-  background: #1e5aca; 
+  background: white; 
 }
 
 // header top
@@ -7,12 +7,12 @@
 .header-top {
   padding-top: 15px;
   padding-bottom: 15px;
-  border-bottom: 1px solid#103883; 
+  border-bottom: 1px solid#000; 
 
   p {
       font-family: "Sarabun", sans-serif;
       font-weight: 400;
-      color: #cccccc;
+      color: #000;
       font-size: 14px;
 
       span {
@@ -35,10 +35,10 @@
 
       a {
           font-size: 16px;
-          color: $white;
+          color: #000;
 
           &:hover {
-              color: #000;
+              color: #103883;
           }
       }
   }
@@ -98,7 +98,7 @@
   margin-right: 20px;
 
   @include min-screen(992) {
-      color: #fff;
+      color: #000;
   }
 }
 
@@ -117,7 +117,7 @@
   }
 
   @include min-screen(992) {
-      color: #cccccc;
+      color: #000;
   }
 }
 
@@ -130,7 +130,7 @@
   text-transform: uppercase;
 
   &:hover {
-      color: #000;
+      color: #103883;
   }
 
   @media #{$xl-device} {
@@ -138,10 +138,10 @@
   }
 
   @include min-screen(992) {
-      color: #fff;
+      color: #000;
 
       &:hover {
-          color: #fff;
+          color: #103883;
       }
   }
 }
@@ -149,14 +149,14 @@
 .book-now-btn {
   font-weight: 700;
   font-size: 14px;
-  color: #fff;
+  color: #103883;
   text-transform: uppercase;
   padding: 15px 30px;
   background: #103883;
   display: inline-block;
 
   &:hover {
-      background: #000;
+      background: #103883;
       color: #fff;
   }
 
@@ -204,7 +204,7 @@
       display: block;
       font-weight: 700;
       font-size: 14px;
-      color: #fff;
+      color: #000;
       text-transform: uppercase;
       padding: 15px 5px;
 
@@ -214,7 +214,7 @@
           left: 0;
           width: 0%;
           height: 2px;
-          background: #fff;
+          background: #000;
           content: "";
           transition: all 0.3s;
       }

@@ -44,7 +44,9 @@ const MedicalFeatureContainer = () => {
                 data-aos-duration="1500"
             >
                 <img
-                    src={process.env.PUBLIC_URL + "./img/photos/doctor-01.png"}
+                    src={
+                        process.env.PUBLIC_URL + "./img/photos/prosperity1.jpeg"
+                    }
                     alt="hope"
                 />
             </div>
