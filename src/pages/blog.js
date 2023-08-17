@@ -11,7 +11,7 @@ const BlogPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Second Wind – Blog" />
+                <SEO title="Second Wind Behavioral Health  – Blog" />
                 <div className="wrapper">
                     <Header />
                     <div className="main-content site-wrapper-reveal">
