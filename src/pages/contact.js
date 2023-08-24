@@ -12,7 +12,7 @@ const ContactPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Second Wind – Contact" />
+                <SEO title="Second Wind Behavioral Health  – Contact" />
                 <div className="wrapper">
                     <Header />
                     <div className="main-content site-wrapper-reveal">

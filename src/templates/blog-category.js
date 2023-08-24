@@ -27,7 +27,7 @@ const BlogCategory = ({
             <Layout>
                 <div className="wrapper">
                     <Header />
-                    <SEO title="Hope – Blog Category" />
+                    <SEO title="Second Wind Behavioral Health – Blog Category" />
                     <div className="main-content site-wrapper-reveal">
                         <Breadcrumb
                             prevs={[

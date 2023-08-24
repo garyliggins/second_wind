@@ -19,7 +19,7 @@ const ServiceDetails = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Second Wind – Service Details" />
+                <SEO title="Second Wind Behavioral Health  – Service Details" />
                 <div className="wrapper">
                     <Header />
                     <div className="main-content site-wrapper-reveal">

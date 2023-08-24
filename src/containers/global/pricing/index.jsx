@@ -16,7 +16,11 @@ const PricingContainer = ({ pricingClassOption }) => {
                         />
                     </div>
                 </div>
-                <div
+
+                <div className="div">
+                    this is where will will put information about second wind outreach which is the low income/ non profit services
+                </div>
+                {/* <div
                     className={`row row-gutter-0 pricing-items-style1 ${pricingClassOption}`}
                     data-aos="fade-up"
                     data-aos-duration="1100"
@@ -32,7 +36,7 @@ const PricingContainer = ({ pricingClassOption }) => {
                                 </div>
                             );
                         })}
-                </div>
+                </div> */}
             </div>
         </div>
     );
