@@ -27,12 +27,12 @@ const HomePage = () => {
                         <HealthFeatureContainer />
                         <MedicalFeatureContainer />
                         {/* <AppointmentContainer /> */}
-                        <TeamContainer />
+                        {/* <TeamContainer /> */}
                         {/* <TestimonialContainer /> */}
                         <BrandContainer />
                         <PricingContainer />
                         <BlogAccordion />
-                        <GoogleMapContainer />
+                        {/* <GoogleMapContainer /> */}
                     </div>
                     <Footer />
                     <ScrollToTop />

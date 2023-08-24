@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "pageTitle": "Second Wind Rehabilitation Services helps individuals struggling with addiction, substance abuse, and other mental health challenges achieve lasting recovery, personal growth, healthier relationships and overall wellness. Our services are facilitated through professionals who provide counseling, specialized treatment plans, and other useful resources in order to support our clients in their journey toward restored hope, achieving their goals and leading fulfilling lives. "
+        "pageTitle": ["Second Wind Behavorial Health Services helps individuals struggling with addiction, substance abuse, and other mental health challenges achieve lasting recovery, personal growth, healthier relationships and overall wellness. Our services are facilitated through professionals who provide counseling, specialized treatment plans, and other useful resources in order to support our clients in their journey toward restored hope, achieving their goals and leading fulfilling lives."]
     },
     {
         "id": 2,
         "title": "Services",
-        "excerpt": ["<p class='text-block'>Second Wind Rehabilitation Services provides comprehensive assessments and evaluations to identify the root causes of an individual’s mental health or substance abuse challenges. Our staff provides customized treatment plans that lead to overall wellness. These services may include psychological assessments, addiction assessments, medical evaluations, counseling services, and other useful resources that aid in positive changes in the lives of our clients.</p>"]
+        "excerpt": ["<p class='text-block'>Second Wind Behavorial Health Services provides comprehensive assessments and evaluations to identify the root causes of an individual’s mental health or substance abuse challenges. Our staff provides customized treatment plans that lead to overall wellness. These services may include psychological assessments, addiction assessments, medical evaluations, counseling services, and other useful resources that aid in positive changes in the lives of our clients.</p>"]
     },
     {
         "id": 3,
-        "title": "Our Community",
-        "excerpt": ["<p>It was shaped like a chair and sparkled with gems, as did everything else. In the center of the chair was an enormous Head, without a body to support it or any arms or legs whatever.</p>"]
+        "title": "",
+        "excerpt": [""]
     },
     {
         "id": 4,

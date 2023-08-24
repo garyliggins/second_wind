@@ -57,7 +57,7 @@ const ServiceDetailsContainer = ({ data }) => {
                             <div className="department-content">
                                 <ServiceDetails data={data} />
 
-                                <div className="team-single">
+                                {/* <div className="team-single">
                                     <h2 className="title">
                                         <span>Head Of</span> Department
                                     </h2>
@@ -91,11 +91,11 @@ const ServiceDetailsContainer = ({ data }) => {
                                                     <span>Languages</span>
                                                     <span>English</span>
                                                 </li>
-                                            </ul>
+                                            </ul> */}
                                             {/* <Link to="/" className="btn-link">
                                                 VIEW FULL PROFILE
                                             </Link> */}
-                                        </div>
+                                        {/* </div>
                                     </div>
                                     <div className="thumb">
                                         <img
@@ -106,7 +106,7 @@ const ServiceDetailsContainer = ({ data }) => {
                                             alt="hope"
                                         />
                                     </div>
-                                </div>
+                                </div> */}
 
                                 <div className="faq-area">
                                     <h2 className="title">

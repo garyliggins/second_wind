@@ -29,7 +29,7 @@ const DepartmentWidget = ({ data }) => {
     });
     return (
         <div className="widget-item">
-            <SidebarTitle title="Departments" />
+            <SidebarTitle title="Second Wind Services" />
             <div className="widget-side-nav">
                 <ul>
                     {data.map((single, i) => {
