@@ -7,11 +7,11 @@
         "sliderThumb": [
             {
                 "id": 1,
-                "image": ""
+                "image": "img/photos/angermanagement1.png"
             },
             {
                 "id": 2,
-                "image": "img/photos/department-s2.jpg"
+                "image": "img/photos/angermanagement2.jpg"
             }
         ],
         "icon": "icofont-brain",
@@ -36,8 +36,8 @@
         "id": 2,
         "type": "thumbnail",
         "media": {
-            "thumb": "img/photos/department-s1.jpg",
-            "image": "img/photos/department-s1.jpg"
+            "thumb": "img/photos/communityoutreach1.png",
+            "image": "img/photos/communityoutreach2.png"
         },
         "icon": "icofont-prescription",
         "title": "Second Wind Outreach Program",
@@ -61,8 +61,8 @@
         "id": 3,
         "type": "thumbnail",
         "media": {
-            "thumb": "img/photos/department-s1.jpg",
-            "image": "img/photos/department-s1.jpg"
+            "thumb": "img/photos/relapseprevention.png",
+            "image": "img/photos/relapseprevention.png"
         },
         "icon": "icofont-heart-beat",
         "title": "Relapse Prevention",
@@ -86,8 +86,8 @@
         "id": 4,
         "type": "thumbnail",
         "media": {
-            "thumb": "img/photos/department-s1.jpg",
-            "image": "img/photos/department-s1.jpg"
+            "thumb": "img/photos/grouptherapy.png",
+            "image": "img/photos/grouptherapy.png"
         },
         "icon": "icofont-users-social",
         "title": "Group Counseling",
@@ -111,8 +111,8 @@
         "id": 5,
         "type": "thumbnail",
         "media": {
-            "thumb": "img/photos/department-s1.jpg",
-            "image": "img/photos/department-s1.jpg"
+            "thumb": "img/photos/singletherapy.png",
+            "image": "img/photos/singletherapy.png"
         },
         "icon": "icofont-users-alt-4",
         "title": "One on One Counseling",
@@ -136,8 +136,8 @@
         "id": 6,
         "type": "thumbnail",
         "media": {
-            "thumb": "img/photos/department-s1.jpg",
-            "image": "img/photos/department-s1.jpg"
+            "thumb": "img/photos/virtualtherapy.png",
+            "image": "img/photos/virtualtherapy.png"
         },
         "icon": "icofont-live-support",
         "title": "Virtual Therapy",
@@ -161,8 +161,8 @@
         "id": 7,
         "type": "thumbnail",
         "media": {
-            "thumb": "img/photos/department-s1.jpg",
-            "image": "img/photos/department-s1.jpg"
+            "thumb": "img/photos/jobtraining.png",
+            "image": "img/photos/jobtraining.png"
         },
         "icon": "icofont-search-job",
         "title": "Job Training & Life Skills",
@@ -186,8 +186,8 @@
         "id": 8,
         "type": "thumbnail",
         "media": {
-            "thumb": "img/photos/department-s1.jpg",
-            "image": "img/photos/department-s1.jpg"
+            "thumb": "img/photos/housing.png",
+            "image": "img/photos/housing.png"
         },
         "icon": "icofont-home",
         "title": "Temporary Housing Assistance",

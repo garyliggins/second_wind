@@ -6,14 +6,14 @@ import SectionTitle from "../../components/section-title";
 const ContactPageContainer = () => {
     return (
         <section className="contact-area">
-            <div className="container">
+            <div className="container" style={{paddingTop: "30px"}}>
                 <div className="row">
                     <div
                         className="col-lg-12"
                         data-aos="fade-up"
                         data-aos-duration="1200"
                     >
-                        <ContactAddress />
+                        {/* add back when we add the map again <ContactAddress /> */}
                     </div>
                 </div>
                 <div className="row">

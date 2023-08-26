@@ -22,7 +22,7 @@ const BlogListContainer = () => {
                                     );
                                 })}
                         </div>
-                        <div className="pagination-area mb-md-80">
+                        {/* <div className="pagination-area mb-md-80">
                             <nav>
                                 <ul className="page-numbers">
                                     <li>
@@ -55,13 +55,13 @@ const BlogListContainer = () => {
                                     </li>
                                 </ul>
                             </nav>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="col-lg-4">
                         <div className="sidebar-wrapper blog-sidebar-wrapper">
                             <div className="widget-item">
-                                <SidebarTitle title="Search" />
-                                <SidebarSearch />
+                                {/* <SidebarTitle title="Search" /> */}
+                                {/* <SidebarSearch /> */}
                             </div>
                             <div className="widget-item">
                                 <SidebarTitle title="Categories" />

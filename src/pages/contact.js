@@ -16,7 +16,7 @@ const ContactPage = () => {
                 <div className="wrapper">
                     <Header />
                     <div className="main-content site-wrapper-reveal">
-                        <GoogleMapContainer classOption="contact-map-area" />
+                        {/* <GoogleMapContainer classOption="contact-map-area" /> */}
                         <ContactPageContainer />
                     </div>
                     <Footer />

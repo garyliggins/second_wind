@@ -37,7 +37,7 @@ const MobileMenu = ({ show, onClose }) => {
             className={`offcanvas offcanvas-mobile-menu ${
                 show ? "offcanvas-open" : ""
             }`}
-        >
+         >
             <div className="inner" style={{ paddingRight: "20px" }}>
                 <div className="border-bottom mb-3 pb-3 text-end">
                     <button className="offcanvas-close" onClick={onClose}>
@@ -46,10 +46,10 @@ const MobileMenu = ({ show, onClose }) => {
                 </div>
                 <div className="offcanvas-head mb-3">
                     <div className="header-top-offcanvas">
-                        <p>
+                        {/* <p>
                             <i className="icofont-google-map"></i>{" "}
                             <span>ADDRESS:</span> LAS VEGAS, NEVADA
-                        </p>
+                        </p> */}
                     </div>
                 </div>
                 <nav className="offcanvas-menu">
@@ -95,7 +95,7 @@ const MobileMenu = ({ show, onClose }) => {
                                     <NavLink
                                         to={
                                             process.env.PUBLIC_URL +
-                                            "/service-detalis"
+                                            "/service-details/1"
                                         }
                                     >
                                         service details
@@ -183,10 +183,10 @@ const MobileMenu = ({ show, onClose }) => {
                         </span>
                         <div className="media-content">
                             <span className="media-sub-heading">
-                                working hours
+                                hours
                             </span>
                             <span className="media-heading">
-                                MON - FRI: 9AM - 5PM{" "}
+                                MON - FRI: 9AM - 5PM{" "} <br/> Sat: 10am - 4pm
                             </span>
                         </div>
                     </li>

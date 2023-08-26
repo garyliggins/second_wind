@@ -32,7 +32,7 @@ const BlogDetailsPage = ({
                             contentThree={data[0]?.title}
                         />
                         <BlogDetailsContainer data={data[0]} />
-                        <CommentContainer />
+                        {/* <CommentContainer /> will add back if we ever want people to leave comments  */}
                     </div>
                     <Footer />
                     <ScrollToTop />

@@ -47,8 +47,8 @@ const BlogDetailsContainer = ({ data }) => {
                     <div className="col-lg-4">
                         <div className="sidebar-wrapper blog-sidebar-wrapper mb-md-80 pt-md-10 pt-160">
                             <div className="widget-item">
-                                <SidebarTitle title="Search" />
-                                <SidebarSearch />
+                                {/* <SidebarTitle title="Search" />
+                                <SidebarSearch /> */}
                             </div>
                             <div className="widget-item">
                                 <SidebarTitle title="Categories" />

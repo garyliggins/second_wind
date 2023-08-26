@@ -135,8 +135,7 @@ const Footer = () => {
                             </h4>
                             <div className="widget-newsletter">
                                 <p>
-                                    Sign up for our mailing list to get latest
-                                    updates and offers.
+                                Stay empowered, educated and encouraged with Second Wind.
                                 </p>
                                 <Newsletter mailchimpUrl="https://app.us21.list-manage.com/subscribe/post?u=d1d55230cf14c2acf77dcf2e1&amp;id=12db1fcee4&amp;f_id=0087d5e6f0" />
                             </div>
