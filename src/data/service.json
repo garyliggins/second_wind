@@ -40,10 +40,10 @@
             "image": "img/photos/department-s1.jpg"
         },
         "icon": "icofont-prescription",
-        "title": "Prescription Drugs",
-        "excerpt": "Offering doctor-prescribed medication for individualized health or medical conditions.",
-        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
-        "body": ["<p>Keeping your health and overall wellness as the top priority at Second Wind Rehabilitation Services will always serve as our mission. Medication is prescribed on a case-by-case basis, taking individual medical conditions, ailments and other needs into consideration. All medications are prescribed by a qualified doctor who also provides you with the necessary guidance for consumption.</p>"],
+        "title": "Second Wind Outreach Program",
+        "excerpt": "Supporting low-income and/or unhoused individuals by providing resources, essentials and professional guidance toward stability and overall wellbeing.",
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Second Wind outreach", "Temporary Housing Assistance"],
+        "body": ["<p>By providing professional services tailored specifically for low-income and/or unhoused individuals the Second Wind Outreach Program is dedicated to bridging the gap between your individualized economic stressors and a more stable, self-sufficient lifestyle. Through this program, you will be offered various resources that aid job training, shelter, mental health support and other essential needs. </p>"],
         "priceList": [
             {
                 "id": 1,
@@ -67,7 +67,7 @@
         "icon": "icofont-heart-beat",
         "title": "Relapse Prevention",
         "excerpt": "Encouraging proactive strategies and coping mechanisms that prevent setbacks.",
-        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Second Wind outreach", "Temporary Housing Assistance"],
         "body": ["<p>By providing you with the proper strategies, resources and support you need, Second Wind Rehabilitation Services aims to assist you in maintaining your sobriety and avoiding setbacks. Relapse prevention is facilitated through counseling services that provide understanding of individual triggers and negative coping mechanisms. After identifying past, current and potential stressors, our staff members are able to empower, educate and encourage you to develop a healthier lifestyle, proactive strategies and healthier coping mechanisms.</p>"],
         "priceList": [
             {
@@ -92,7 +92,7 @@
         "icon": "icofont-users-social",
         "title": "Group Counseling",
         "excerpt": "Professional counseling services designed to encourage healing in a safe, community style environment.",
-        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Second Wind outreach", "Temporary Housing Assistance"],
         "body": ["<p>Providing you with a professional environment to gain self-awareness, share perspectives, explore similar experiences and overcome obstacles amongst peers allows Second Wind Rehabilitation Services to facilitate group counseling in a safe, non-judgemental and confidential space. Group counseling offers a combination of coummunity, therapy based exercises, resources and feedback that encourages growth, healing and reflection. </p>"],
         "priceList": [
             {
@@ -117,7 +117,7 @@
         "icon": "icofont-users-alt-4",
         "title": "One on One Counseling",
         "excerpt": "Professional counseling services designed to encourage healing in a safe, individualized environment.",
-        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Second Wind outreach", "Temporary Housing Assistance"],
         "body": ["<p>Giving you a safe and confidential space to share your experiences, understand your challenges and develop coping strategies allows Second Wind Rehabilitation Services to provide treatment plans specific to your needs. One on One Counseling is designed to encourage you to explore your emotions and empower you to address challenges head on in order to achieve an overall healthier lifestyle.</p>"],
         "priceList": [
             {
@@ -142,7 +142,7 @@
         "icon": "icofont-live-support",
         "title": "Virtual Therapy",
         "excerpt": "Professional counseling services designed to encourage healing in a safe, virtual environment.",
-        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Second Wind outreach", "Temporary Housing Assistance"],
         "body": ["<p>Ensuring that you have access to therapy services from the comfort of your home or a quiet location where you feel comfortable gives Second Wind Rehabilitation Services the ability to serve you without physical health or location constraints. Virtual therapy provides you with all of the same benefits as One on One Counseling with the goal of helping you achieve an overall healthier lifestyle.</p>"],
         "priceList": [
             {
@@ -167,7 +167,7 @@
         "icon": "icofont-search-job",
         "title": "Job Training & Life Skills",
         "excerpt": "Providing support and resources for practical job readiness, professional skill development and essential skills that encourage independence and adaptability.",
-        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Second Wind outreach", "Temporary Housing Assistance"],
         "body": ["<p>Setting you up for success with practical job readiness, professional skill development and essential skills that encourage independence and adaptability. At Second Wind Rehabilitation Services, Job Training & Life Skills support provides you with the resources, encouragement and tools you need to transition into complete independence, a successful work-life as well as healthier and more fulfilling relationships.</p>"],
         "priceList": [
             {
@@ -192,7 +192,7 @@
         "icon": "icofont-home",
         "title": "Temporary Housing Assistance",
         "excerpt": "Providing short-term, safe, and sanitary housing assistance while you are in our care.",
-        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Prescription Drugs", "Temporary Housing Assistance"],
+        "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Second Wind outreach", "Temporary Housing Assistance"],
         "body": ["<p>Providing you with a short-term, safe and sanitary living environment when you are in immediate need of housing assistance. With Second Wind Behavioral Health Centers, temporary housing assistance allows our staff to continue to aid in your specific mental health or substance abuse conditions while providing you with the resources, encouragement and essentials you need in order to rebuild stable, healthy and safe living conditions. </p>"],
         "priceList": [
             {

@@ -61,7 +61,7 @@ const AboutContainer = () => {
                                 data-aos="fade-up"
                                 data-aos-duration="1200"
                             >
-                                <ul>
+                                {/* <ul>
                                     {ServiceData.slice(0, 4).map(
                                         (single, i) => {
                                             return (
@@ -81,7 +81,7 @@ const AboutContainer = () => {
                                             );
                                         }
                                     )}
-                                </ul>
+                                </ul> */}
                                 <ul>
                                     {ServiceData.slice(4, 8).map(
                                         (single, i) => {
@@ -126,7 +126,7 @@ const AboutContainer = () => {
                                 </ul>
                             </div>
                         </div>
-                        <div
+                        {/* <div
                             className="office-center-content"
                             data-aos="fade-up"
                             data-aos-duration="1200"
@@ -142,8 +142,8 @@ const AboutContainer = () => {
                                         }}
                                     />
                                 );
-                            })}
-                            <div className="row">
+                            })} */}
+                            {/* <div className="row">
                                 <div className="col-md-6" data-aos="fade-up">
                                     <div className="gallery-item mb-30">
                                         <LightgalleryProvider>
@@ -248,8 +248,8 @@ const AboutContainer = () => {
                                         </LightgalleryProvider>
                                     </div>
                                 </div>
-                            </div>
-                            <div
+                            </div> */}
+                            {/* <div
                                 className="office-address-content"
                                 data-aos="fade-up"
                                 data-aos-duration="1200"
@@ -259,8 +259,8 @@ const AboutContainer = () => {
                                         <AboutAddress key={i} data={single} />
                                     );
                                 })}
-                            </div>
-                        </div>
+                            </div> */}
+                        {/* </div> */}
                     </div>
                 </div>
             </div>

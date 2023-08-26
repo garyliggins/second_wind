@@ -20,10 +20,10 @@ const Footer = () => {
                                 Guiding you toward overall mental, physical and emotional well-being.
                                 </p>
                                 <ul className="widget-contact-info">
-                                    <li className="info-address">
+                                    {/* <li className="info-address">
                                         <i className="icofont-location-pin"></i>
                                         Las vegas, Nevada
-                                    </li>
+                                    </li> */}
                                     <li className="info-mail">
                                         <i className="icofont-email"></i>
                                         <a href="mailto://support@secondwindhealth.org">
@@ -150,12 +150,12 @@ const Footer = () => {
                                     icon="icofont-facebook"
                                 />
                                 <SocialIcon
-                                    path="https://dribbble.com/"
-                                    icon="icofont-instagram"
+                                  path="https://www.reddit.com/"
+                                  icon="icofont-reddit"
                                 />
                                 <SocialIcon
-                                    path="https://dribbble.com/"
-                                    icon="icofont-play-alt-1"
+                                  path="https://www.youtube.com/"
+                                  icon="icofont-play-alt-1"
                                 />
                             </div>
                         </div>

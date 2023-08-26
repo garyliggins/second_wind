@@ -31,7 +31,7 @@ const HomePage = () => {
                         {/* <TestimonialContainer /> */}
                         <BrandContainer />
                         <PricingContainer />
-                        <BlogAccordion />
+                        {/* <BlogAccordion /> */}
                         {/* <GoogleMapContainer /> */}
                     </div>
                     <Footer />

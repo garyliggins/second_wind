@@ -11,14 +11,14 @@ const PricingContainer = ({ pricingClassOption }) => {
                     <div className="col-lg-12">
                         <SectionTitle
                             classOption="text-center"
-                            subTitle="Second Wind Outreach"
-                            title="<span>this will be info about </span> second wind outreach"
+                            subTitle=""
+                            title="<span>Second Wind </span> Outreach Program"
                         />
                     </div>
                 </div>
 
-                <div className="div">
-                    this is where will will put information about second wind outreach which is the low income/ non profit services
+                <div className="div" style={{borderBottom: "1px solid #e5e5e5", paddingBottom: "75px"}}>
+                Second Wind Behavorial Health Centers provide professional services tailored specifically for low-income and/or unhoused individuals the Second Wind Outreach Program is dedicated to bridging the gap between your individualized economic stressors and a more stable, self-sufficient lifestyle. Through this program, you will be offered various resources that aid job training, shelter, mental health support and other essential needs. Contact us for more information.
                 </div>
                 {/* <div
                     className={`row row-gutter-0 pricing-items-style1 ${pricingClassOption}`}

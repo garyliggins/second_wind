@@ -35,10 +35,10 @@ const Header = () => {
                     <div className="container" >
                         <div className="row row-cols-2">
                             <div className="col">
-                                <p>
+                                {/* <p>
                                     <i className="icofont-google-map"></i>{" "}
                                     <span >ADDRESS: </span> LAS VEGAS, NEVADA
-                                </p>
+                                </p> */}
                             </div>
                             <div className="col">
                                 <ul className="social-links text-end">

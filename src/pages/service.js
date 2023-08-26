@@ -22,7 +22,7 @@ const ServicePage = () => {
                     <div className="main-content site-wrapper-reveal">
                         <PageTitleContainer
                             image="img/photos/familyImage3.jpeg"
-                            subTitle="Helping You Restore"
+                            subTitle="Helping You Restore Your Future"
                             title="Hope • Health • Happiness"
                             
                         />
