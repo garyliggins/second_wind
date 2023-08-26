@@ -31,24 +31,24 @@ const ServiceDetails = ({ data }) => {
                                         <img
                                             key={key}
                                             src={`${process.env.PUBLIC_URL}/${single.image}`}
-                                            alt="Alexis"
+                                            alt="anger management"
                                         />
                                     </SwiperSlide>
                                 );
                             })}
-                        <div className="swiper-button-prev">
+                        {/* <div className="swiper-button-prev">
                             <i className="icofont-rounded-left"></i>
                         </div>
                         <div className="swiper-button-next">
                             <i className="icofont-rounded-right"></i>
-                        </div>
+                        </div> */}
                     </Swiper>
                 )}
                 {data?.type === "thumbnail" && (
                     <div className="department-gallery">
                         <img
                             src={`${process.env.PUBLIC_URL}/${data.media.image}`}
-                            alt="Hope"
+                            alt="second wind health"
                         />
                     </div>
                 )}

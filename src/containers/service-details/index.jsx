@@ -108,14 +108,14 @@ const ServiceDetailsContainer = ({ data }) => {
                                     </div>
                                 </div> */}
 
-                                <div className="faq-area">
+                                {/* will put back if we have FAQ's <div className="faq-area">
                                     <h2 className="title">
-                                        <span>General</span> FAQs
+                                        <span>General</span> FAQ
                                     </h2>
                                     <div className="accordian-content">
                                         <AccordionWrapTwo />
                                     </div>
-                                </div>
+                                </div> */}
                                 {/* 
                                 <div className="case-area">
                                     <div className="section-title">
