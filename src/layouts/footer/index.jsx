@@ -148,14 +148,14 @@ const Footer = () => {
                                     path="https://www.facebook.com/profile.php?id=61550310292587"
                                     icon="icofont-facebook"
                                 />
-                                <SocialIcon
+                                {/* <SocialIcon
                                   path="https://www.reddit.com/"
                                   icon="icofont-reddit"
                                 />
                                 <SocialIcon
                                   path="https://www.youtube.com/"
                                   icon="icofont-play-alt-1"
-                                />
+                                /> */}
                             </div>
                         </div>
                     </div>

@@ -54,7 +54,7 @@ const Header = () => {
                                             icon="icofont-facebook"
                                         />
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <SocialIcon
                                             path="https://www.reddit.com/"
                                             icon="icofont-reddit"
@@ -66,7 +66,7 @@ const Header = () => {
                                             path="https://www.youtube.com/"
                                             icon="icofont-play-alt-1"
                                         />
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                         </div>
@@ -78,9 +78,9 @@ const Header = () => {
                         <div className="row">
                             <div className="col-12">
                                 <div className="header-middle-content" >
-                                    <div className="header-logo">
+                                    <div className="header-logo" >
                                         <Logo 
-                                            image={`${process.env.PUBLIC_URL}/img/Second-Wind-rs2.png`}
+                                            image={`${process.env.PUBLIC_URL}/img/Second-Wind-2-rs.png`}
                                         />
                                     </div>
                                     <ul className="media-wrap d-none d-lg-flex">

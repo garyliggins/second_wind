@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 
@@ -5,7 +6,7 @@ const Logo = ({ image, classOption }) => {
     return (
         <Link className={`${classOption}`} to={process.env.PUBLIC_URL + "/"}>
             <img
-                className="sticky-img"
+                className="sticky-img" 
                 src={process.env.PUBLIC_URL + image}
                 alt="Logo"
             />

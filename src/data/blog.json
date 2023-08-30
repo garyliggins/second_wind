@@ -13,7 +13,7 @@
         "date": "August 14th, 2023",
         "categories": ["Tips & tricks"],
         "tags": ["anger", "mental health", "counseling", "therapy", "family"],
-        "body": ["<p>blog about anger management</p>"]
+        "body": ["<p>Most, if not all, therapists will tell you that anger is a universal human emotion. Meaning, we all get angry sometimes. Surprisingly enough, feeling or being angry isn’t always a bad thing. However, the way you manage and express your anger can have a negative effect on both your personal and professional relationships. The ultimate goal is to navigate your angry emotions in a way that allows you to effectively express yourself while maintaining healthy relationships and your emotional well-being. Today, we are going to go over 5 Ways to Control Your Anger that you’ll be able to use no matter what environment you’re in. <br/> <br/> 1. Practice Deep Breathing and Mindfulness When tension begins to rise, your muscles begin to tense up, your vision becomes blurry, and angry thoughts start to flood your brain, it’s time to be mindful and practice deep breathing. When you’re feeling these big emotions, anger management can seem impossible. Mindfulness can be as simple as being present enough in your emotions to identify what physical changes you feel your body experiencing. As you intentionally notice the stiffness in your neck and the contracting muscles in your shoulders, gently stretch those muscles to the best of your ability. Regardless of what has triggered this moment of anger, you can take a few minutes to yourself to take deep breaths in your nose and release that air out of your mouth. With each inhale, imagine yourself inhaling the thoughts or things that brought you these angry emotions. With each exhale, imagine yourself releasing those thoughts or things from your body. The simplicity of deep breathing and mindfulness allows you to be present in your emotions, giving you more emotional control. <br/> <br/> 2. Identify Triggers. Have you ever gotten angry about something and later thought to yourself, how did I let myself get so angry about that? The ability to understand your anger and identify what triggers your emotions can help you navigate your journey through anger management. Taking the time to reflect on past situations that angered you will allow you to identify what similarities took place and what physiological changes your body began to take as your anger built up. Identifying those anger triggers and recognizing your body’s warning signals will allow you to develop healthy coping strategies and/or ways to intervene before your anger escalates.  <br/> <br/> 3. Develop and Utilize Problem Solving Skills. Developing healthy coping strategies and ways to intervene before your anger escalates is the first step in developing and utilizing problem solving skills. The beauty in problem solving skills is that they allow you to identify a problem and find a number of ways to resolve that problem but it also empowers you to have control over your emotions and the situation at hand. Once you’ve come up with one or more resolutions you are comfortable with, you are able to decide how you’d like to move forward in successfully resolving the issue and anger reduction. The great thing about utilizing problem solving skills is that you’re creating space to practice your deep breathing and mindfulness skills simultaneously. <br/> <br/>4. Effective Communication. Effective communication takes a pivotal role in maintaining healthy relationships when you are working to transform the way you manage your anger. One important part in effectively communicating your feelings and emotions when you’re angry is to be assertive in your boundaries but not aggressive in the way that you deliver that information. Unfortunately, communicating with aggression will only add fuel to the flame. That means yelling, blaming, being critical or other types of aggressive communication have to be replaced with clarity, honesty and fairness. You reserve the right to express yourself. You even reserve the right to take a moment to practice mindfulness, deep breathing and problem solving skills before engaging in the necessary conversations. However, effective communication also includes active listening. Allowing the other person to express themselves in a way that is also respectful will give each of you a better understanding of one another’s perspective and eliminate any current or future misunderstandings. <br/> <br/>5. Physical Activity. Finding healthing coping strategies toward anger management as a whole is crucial to your overall emotional well being. Everyday Health states that being angry all the time weakens your immune system, puts you at greater risk for strokes and lowers your heart health. Physical activity can be a useful outlet to increasing your health and reducing your anger. As we know, exercising releases natural mood lifters called endorphins which can not only promote relaxation and help release the tension you feel but it also gives you time to practice each of the strategies mentioned earlier. So, whether you only have time to do a few push ups or run a few miles, physical activity is a great way to keep your emotions under control. Anger management and emotional well being is a journey. Give yourself grace, patience and understanding because it won’t happen overnight. However, by incorporating these strategies into your life consistently, being self aware, and determined will make this journey a successful one. Managing your emotions is ultimately for you. It gives you a better quality of life overall but it also makes it easier to have fulfilling relationships. Remember that anger is a universal human emotion and it is necessary to feel through that emotion rather than suppressing it. The more you integrate these strategies into your everyday life, the easier they become. <br/> If you or someone you love is struggling to manage their anger, please contact us at Second Wind for resources and support. </p>"]
     },
     {
         "id": 2,
@@ -24,59 +24,12 @@
             "mediumImage": "./img/blog/job.png",
             "largeImage": "img/blog/joblarge.png"
         },
-        "title": "3 Secrets to Securing a Job",
+        "title": "3 Secrets to Securing a stable Job",
         "author": "Kee Smith",
         "date": "August 14th, 2023",
         "categories": ["business"],
         "tags": ["career", "mental health", "counseling", "therapy", "family"],
-        "body": ["<p>blog about job</p>"]
-    },
-    {
-        "id": 3,
-        "media": {
-            "rcImage": "./img/blog/grouptherapyicon.png",
-            "smallImage": "./img/blog/grouptherapyblog.png",
-            "gridImage": "img/blog/grouptherapyblog.png",
-            "mediumImage": "./img/blog/grouptherapyblog.png",
-            "largeImage": "img/blog/grouptherapybloglarge.png"
-        },
-        "title": "Understanding Group Therapy",
-        "author": "Kee Smith",
-        "date": "May 15th, 2021",
-        "categories": ["Tips & tricks"],
-        "tags": ["anger", "mental health", "counseling", "therapy", "family"],
-        "body": ["blog about group therapy</p>"]
-    },
-    {
-        "id": 4,
-        "media": {
-            "rcImage": "./img/blog/relapseblogicon.png",
-            "smallImage": "./img/blog/relapseblogmed.png",
-            "gridImage": "img/blog/relapseblogmed.png",
-            "mediumImage": "./img/blog/relapseblogmed.png",
-            "largeImage": "img/blog/relapsebloglarge.png"
-        },
-        "title": "3 Tips to Preventing Relapse",
-        "author": "Kee Smith",
-        "date": "August 14th, 2023",
-        "categories": ["Tips & tricks"],
-        "tags": ["anger", "mental health", "counseling", "therapy", "family"],
-        "body": ["<p>blog about preventing relapse</p>"]
-    },
-    {
-        "id": 5,
-        "media": {
-            "rcImage": "./img/blog/mentalhealthicon.png",
-            "smallImage": "./img/blog/mentalhealthmed.png",
-            "gridImage": "img/blog/mentalhealthmed.png",
-            "mediumImage": "./img/blog/mentalhealthmed.png",
-            "largeImage": "img/blog/mentalhealthlarge.png"
-        },
-        "title": "Mental Health Awareness Month",
-        "author": "Kee Smith",
-        "date": "August 14th, 2023",
-        "categories": ["News"],
-        "tags": ["Mental Health Awareness Month", "therapy", "family therapy", "virtual therapy"],
-        "body": ["<p>blog about mental health month</p>"]
+        "body": ["<p> Finding a Job Can Be Overwhelming. <br/> It’s no secret that the job market is competitive. The job search in itself can feel overwhelming which can ultimately lead to feelings of defeat and the thought of giving up. On the other hand, securing a job that is meaningful, enjoyable and fulfilling will empower you to maintain a healthier, more stable lifestyle.<br/><br/> When you begin your journey into employment, you should feel confident and comfortable. In this article, we are going to share three secrets that will help you navigate the job market as you search for career opportunities.<br/><br/> Identify & Develop Your Skills. <br/> If you’re jumping back into the workforce, start off by taking inventory of the skills you already have and determine how those skills can be transferable into different job positions. By acknowledging and understanding your current skills, you have a solid place to start in expanding those skills. <br/> Whether you’re new to the workforce, have been unemployed for quite some time or are simply looking for a career transition, it is important that you develop skills specific to the type of work you are looking to secure. <br/><br/> Therefore, if the skills you already have don’t fit the work you find meaningful, enjoyable and fulfilling, it may be time to develop new skills. <br/><br/> In order to develop new skills or expand skills you already have, you can attend free or low-cost workshops or online courses that cover a variety of skill sets. Linkedin Learning and Google Career Certificates  are great resources to begin developing your skills. <br/> Once you have identified and developed your skills, earned certifications, and built more confidence in your skill set, you are on your way to positioning yourself to be a top candidate in the job field of your choice. <br/><br/> Maintain a Positive Mindset. <br/> Maintaining a positive mindset throughout a job hunting journey can be a difficult task. You may feel underqualified, you may feel as though your applications are being overlooked or employers may simply tell you no. Regardless, you can’t give up. <br/> A positive mindset will act as the foundation of your journey toward securing a job, transforming your life and maintaining stability. Each step of this journey is a stepping stone, bringing you one step closer to a fulfilling career and future. <br/> One way to maintain your positive mindset is to celebrate even the smallest victories. Finally put together a resume you’re proud of? Celebrate! Achieved your goal of five applications this week? Celebrate! Achievements that seem small will motivate you to continue on your journey, set goals and build resilience. <br/><br/> Build Your Network. <br/> Developing your skills and maintaining a positive mindset are a large part of the foundation you need to successfully secure a job and they will both give you the confidence you need to build your network. <br/><br/> Have you ever heard the saying it’s not what you know, it’s who you know? Now, what you know is definitely important when it comes to finding a job. However, who you know can be the leverage you need to catapult your search. <br/><br/>Building your network helps you create genuine relationships with people that can help you get into the field of work you are looking to embark on. Creating these relationships will allow you to learn about job openings, gain guidance on what employers are looking for and learn ways to prepare for interviews.<br/><br/>You can participate in volunteer work, attend job fairs or community events and connect with mentors and community leaders to help you build and grow your network. <br/> The advantage to building your network is that it may also help you expand your skills and motivate you– helping you maintain your positive mindset. <br/> <br/> Stability & Success. <br/> Finding and securing a job is a pivotal step in transforming your life, maintaining stability and your overall well-being. There are, of course, a number of practical steps that are necessary like building a resume, understanding how to fill out job applications and preparing for job interviews and each of these are equally important. <br/><br/> However, employers are looking for employees that stand out above all applicants. That is where your positive mindset, skill development and strong network will not only empower you, but get you hired. <br/>Stay persistent while you navigate this journey. Give yourself grace and be patient while you embark on job opportunities that are meaningful to you. <br/><br/>At Second Wind, we are dedicated to helping you embrace the journey. <br/>If you are looking for resources to help you develop your skills, build your resume, or increase your confidence during your job search, please contact us. <br/> We are looking forward to helping you secure the job of your dreams and live the life you deserve.</p>"]
     }
+
 ]
