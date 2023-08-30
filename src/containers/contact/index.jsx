@@ -6,7 +6,7 @@ import SectionTitle from "../../components/section-title";
 const ContactPageContainer = () => {
     return (
         <section className="contact-area">
-            <div className="container" style={{paddingTop: "30px"}}>
+            <div className="container" style={{ paddingTop: "30px"}}>
                 <div className="row">
                     <div
                         className="col-lg-12"
@@ -21,8 +21,8 @@ const ContactPageContainer = () => {
                         <div className="contact-form">
                             <SectionTitle
                                 classOption="text-center"
-                                subTitle="Contact"
-                                title="<span> We Are Ready</span> To Give You Your Second Wind"
+                                subTitle="Unlock Your Potential"
+                                title="<span> Begin Your Path to Transformation</span> <br/> Contact Us Today"
                             />
                             <ContactForm />
                         </div>
