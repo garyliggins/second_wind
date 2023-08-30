@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Button from "../button";
 import PropTypes from "prop-types";
 

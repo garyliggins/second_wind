@@ -7,18 +7,12 @@ import Intro from "../../../components/intro";
 SwiperCore.use([Navigation]);
 const IntroContainer = () => {
     const swiperOption = {
-        loop: true,
+        loop: false,
         speed: 600,
         spaceBetween: 0,
         slidesPerView: 1,
-        autoplay: {
-            delay: 2500,
-            disableOnInteraction: false,
-        },
-        navigation: {
-            nextEl: ".hero-slider .swiper-button-next",
-            prevEl: ".hero-slider .swiper-button-prev",
-        },
+        autoplay: false,
+       
     };
     return (
         <div className="hero-slider-area">
