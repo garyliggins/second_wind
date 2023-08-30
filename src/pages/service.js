@@ -16,7 +16,7 @@ const ServicePage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Second Wind – Service" />
+                <SEO title="Second Wind Behavioral Health – Services" />
                 <div className="wrapper">
                     <Header />
                     <div className="main-content site-wrapper-reveal">
