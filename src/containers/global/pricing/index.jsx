@@ -21,7 +21,7 @@ const PricingContainer = ({ pricingClassOption }) => {
                 <div className="div" style={{borderBottom: "1px solid #e5e5e5", paddingBottom: "75px"}}>
                 The Second Wind Rehabilitation Program is a 501(c)(3) non-profit organization that provides professional services tailored specifically for low-income and/or unhoused individuals. Dedicated to bridging the gap between your individualized economic stressors and a more stable, self-sufficient lifestyle, our program offers various resources including job training, shelter, mental health support, and other essential needs. Please don't hesitate to contact us if you need our assistance or if you would like to get involved by donating or volunteering. Your support helps us continue our mission of empowering individuals towards a brighter future.
                 <div style={{textAlign:"center"}}>
-                    <button style={{textAlign:"center", marginTop:"25px", padding:"15px", fontWeight:"bold",backgroundColor:"#1e5aca", color:"white", border:"none" }} onClick={() => window.open("https://secondwindservices.org/", '_blank')}  >More Information</button>
+                    <button style={{textAlign:"center", marginTop:"25px", padding:"15px", fontWeight:"bold",backgroundColor:"#1e5aca", color:"white", border:"none" }} onClick={() => window.open("https://animated-centaur-62b600.netlify.app", '_blank')}  >More Information</button>
                 </div>
                 </div>
                 {/* <div
