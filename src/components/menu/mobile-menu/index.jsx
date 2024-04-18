@@ -136,7 +136,7 @@ const MobileMenu = ({ show, onClose }) => {
 
                         <li>
                             <NavLink to={process.env.PUBLIC_URL + "/about"}>
-                                about
+                                About
                             </NavLink>
                         </li>
 
@@ -155,24 +155,24 @@ const MobileMenu = ({ show, onClose }) => {
                                 icon="icofont-facebook"
                             />
                         </li>
-                        <li>
+                        {/* <li>
                             <SocialIcon
                                 path="https://www.instagram.com/"
                                 icon="icofont-instagram"
                             />
-                        </li>
+                        </li> */}
                         <li>
                             <SocialIcon
                                 path="https://www.linkedin.com/company/second-wind-behavioral-health-centers"
                                 icon="icofont-linkedin"
                             />
                         </li>
-                        <li>
+                        {/* <li>
                             <SocialIcon
                                 path="https://www.youtube.com/"
                                 icon="icofont-play-alt-1"
                             />
-                        </li>
+                        </li> */}
                     </ul>
                 </div>
 
@@ -186,6 +186,8 @@ const MobileMenu = ({ show, onClose }) => {
                                 hours
                             </span>
                             <span className="media-heading">
+                                Now Servicing: <br /> Los Angeles, CA &<br />
+                                Las Vegas, NV <br />
                                 MON - FRI: 9AM - 5PM{" "} <br/> Sat: 10am - 4pm
                             </span>
                         </div>

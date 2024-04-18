@@ -59,7 +59,69 @@ const ContactForm = () => {
                     </div>
                 </div>
                 <div className="col-md-12">
+                   
                     <div className="form-group mb-0">
+                        <div className="col-md-12">
+                            <div className="form-group mb-0">
+                                
+                                <div className="d-flex flex-wrap">
+                                    <div className="radio-wrapper mr-3">
+                                        <input
+                                            type="radio"
+                                            name="radioOption"
+                                            value="option1"
+                                            ref={register}
+                                        />
+                                        <label htmlFor="option1">Interpersonal Therapy </label>
+                                    </div>
+                                    <div className="radio-wrapper mr-3">
+                                        <input
+                                            type="radio"
+                                            name="radioOption"
+                                            value="option2"
+                                            ref={register}
+                                        />
+                                        <label htmlFor="option2">Relapse Prevention</label>
+                                    </div>
+                                    <div className="radio-wrapper mr-3">
+                                        <input
+                                            type="radio"
+                                            name="radioOption"
+                                            value="option3"
+                                            ref={register}
+                                        />
+                                        <label htmlFor="option3">Support Groups</label>
+                                    </div>
+                                    <div className="radio-wrapper mr-3">
+                                        <input
+                                            type="radio"
+                                            name="radioOption"
+                                            value="option4"
+                                            ref={register}
+                                        />
+                                        <label htmlFor="option4">Second Wind Outreach Program</label>
+                                    </div>
+                                    <div className="radio-wrapper">
+                                        <input
+                                            type="radio"
+                                            name="radioOption"
+                                            value="option5"
+                                            ref={register}
+                                        />
+                                        <label htmlFor="option5">Cognitive-Behavioral Therapy</label>
+                                    </div>
+                                    <div className="radio-wrapper">
+                                        <input
+                                            type="radio"
+                                            name="radioOption"
+                                            value="option6"
+                                            ref={register}
+                                        />
+                                        <label htmlFor="option5">Family Therapy</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <textarea
                             name="message"
                             rows="5"
@@ -71,6 +133,9 @@ const ContactForm = () => {
                         {errors.message && <p>{errors.message.message}</p>}
                     </div>
                 </div>
+
+                    
+
                 <div className="col-md-12 text-center">
                     <div className="form-group mb-0">
                         <button

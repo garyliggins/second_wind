@@ -29,6 +29,15 @@
   }
 }
 
+
+.radio-wrapper {
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.radio-wrapper input[type="radio"] {
+  margin-right: 5px;
+}
 .contact-info-content {
   background-color: $theme-color;
   display: flex;

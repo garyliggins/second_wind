@@ -20,7 +20,7 @@ const BlogDetailsPage = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Second Wind Behavioral Health  – Blog Details" />
+                <SEO title="Second Wind Behavioral Health Services  – Blog Details" />
                 <div className="wrapper">
                     <Header />
                     <div className="main-content site-wrapper-reveal">
