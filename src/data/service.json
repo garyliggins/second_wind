@@ -40,10 +40,10 @@
             "image": "img/photos/communityoutreach2.png"
         },
         "icon": "icofont-prescription",
-        "title": "Second Wind Outreach Program",
+        "title": "Second Wind Rehabilitation Program",
         "excerpt": "Supporting low-income and/or unhoused individuals by providing resources, essentials and professional guidance toward stability and overall wellbeing.",
         "categories": ["Addiction Education", "Relapse Prevention", "Group Counseling", "One on One Therapy", "Job Training & Life Skills", "Virtual Therapy", "Second Wind outreach", "Temporary Housing Assistance"],
-        "body": ["<p>By providing professional services tailored specifically for low-income and/or unhoused individuals the Second Wind Outreach Program is dedicated to bridging the gap between your individualized economic stressors and a more stable, self-sufficient lifestyle. Through this program, you will be offered various resources that aid job training, shelter, mental health support and other essential needs. </p>"],
+        "body": ["<p>By providing professional services tailored specifically for low-income and/or unhoused individuals the Second Wind Outreach Program is dedicated to bridging the gap between your individualized economic stressors and a more stable, self-sufficient lifestyle. Through this program, you will be offered various resources that aid job training, shelter, mental health support and other essential needs. </p> "],
         "priceList": [
             {
                 "id": 1,

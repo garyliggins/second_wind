@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import SectionTitle from "../../../components/section-title";
 import PricingItem from "../../../components/pricing";
 import HomeData from "../../../data/home.json";
@@ -12,13 +13,16 @@ const PricingContainer = ({ pricingClassOption }) => {
                         <SectionTitle
                             classOption="text-center"
                             subTitle=""
-                            title="<span>Second Wind </span> Outreach Program"
+                            title="<span>Second Wind </span> Rehabilitation Program"
                         />
                     </div>
                 </div>
 
                 <div className="div" style={{borderBottom: "1px solid #e5e5e5", paddingBottom: "75px"}}>
-                Second Wind Behavorial Health Centers provide professional services tailored specifically for low-income and/or unhoused individuals, the Second Wind Outreach Program is dedicated to bridging the gap between your individualized economic stressors and a more stable, self-sufficient lifestyle. Through this program, you will be offered various resources that aid job training, shelter, mental health support and other essential needs. Contact us for more information.
+                The Second Wind Rehabilitation Program is a 501(c)(3) non-profit organization that provides professional services tailored specifically for low-income and/or unhoused individuals. Dedicated to bridging the gap between your individualized economic stressors and a more stable, self-sufficient lifestyle, our program offers various resources including job training, shelter, mental health support, and other essential needs. Please don't hesitate to contact us if you need our assistance or if you would like to get involved by donating or volunteering. Your support helps us continue our mission of empowering individuals towards a brighter future.
+                <div style={{textAlign:"center"}}>
+                    <button style={{textAlign:"center", marginTop:"25px", padding:"15px", fontWeight:"bold",backgroundColor:"#1e5aca", color:"white", border:"none" }} onClick={() => window.open("https://animated-centaur-62b600.netlify.app", '_blank')}  >More Information</button>
+                </div>
                 </div>
                 {/* <div
                     className={`row row-gutter-0 pricing-items-style1 ${pricingClassOption}`}
